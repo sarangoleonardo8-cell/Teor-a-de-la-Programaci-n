@@ -1,2 +1,2 @@
-# Que paso con la bustan 
-## la que dijo que estaba soltera
+# Que paso con la que dijo que te amaba
+## acaso se fue y te ha dejado abandonada
