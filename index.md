@@ -3,6 +3,7 @@
 
 ### 📘 Unidad 1 — Fundamentos de la Programación
 Resumen de conceptos básicos, algoritmos y estructuras de control.
+[algoritmos](unidad.md)
 
 ### 💡 Unidad 2 — Paradigmas y Lenguajes
 Comparación entre paradigmas de programación y ejemplos en distintos lenguajes.
