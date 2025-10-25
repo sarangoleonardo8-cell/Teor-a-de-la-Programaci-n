@@ -1,7 +1,13 @@
 # 💻 Teoría de la Programación
+## Nombre:
+Jefferson Sarango
+## Fecha:
+28/10/2025
+## Docente:
+Lissette  Lopez
 ## 🗂️ Portafolio Digital de Aprendizaje
 
-### 📘 Unidad 1 — Fundamentos de la Programación
+### 📘 Unidad 1 — Fundamentos de Algoritmos y programas
 Resumen de conceptos básicos, algoritmos y estructuras de control.
 [algoritmos](unidad.md)
 
