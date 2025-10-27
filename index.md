@@ -1,6 +1,6 @@
 # 💻 Teoría de la Programación
 
---
+---
 
 ## Nombre:
 ### Jefferson Sarango 
