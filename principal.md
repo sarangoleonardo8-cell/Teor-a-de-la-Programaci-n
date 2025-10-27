@@ -1,3 +1,8 @@
+---
+layout: default
+title: Principal
+---
+
 # 🗂️ Portafolio Digital de Aprendizaje
 
 ### 📘 Unidad 1 — Fundamentos de Algoritmos y programas
