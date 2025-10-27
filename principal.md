@@ -12,7 +12,7 @@ title: Principal
 > Resumen de conceptos básicos, algoritmos y estructuras de control.
 
 <p align="center">
-  <a href="./Unidades/Unidad1.md" style="
+  <a href="./Unidades/Unidad1" style="
     display:inline-block;
     background-color:#28a745;
     color:#fff;
