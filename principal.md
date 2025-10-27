@@ -36,3 +36,19 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 
 ### 🤖 Uso Determinado de la IA
 La inteligencia artificial se utilizó para obtener explicaciones, generar ejemplos y mejorar la presentación del portafolio.
+
+---
+
+<p align="center">
+  <a href="index" style="
+    display:inline-block;
+    background-color:#0078D7;
+    color:#fff;
+    padding:10px 18px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    📘 Ir a la Caratula
+  </a>
+</p>
