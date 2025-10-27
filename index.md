@@ -9,6 +9,7 @@ Lissette  Lopez
 
 ### 📘 Unidad 1 — Fundamentos de Algoritmos y programas
 Resumen de conceptos básicos, algoritmos y estructuras de control.
+[trabajos](trabajo1)
 [algoritmos](unidad.md)
 
 ### 💡 Unidad 2 — Paradigmas y Lenguajes
