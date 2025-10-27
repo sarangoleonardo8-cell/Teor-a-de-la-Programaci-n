@@ -1,3 +1,8 @@
+---
+layout: default
+title: Caratula
+---
+
 # 💻 Teoría de la Programación
 
 ---
