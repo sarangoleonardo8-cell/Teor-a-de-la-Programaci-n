@@ -1,6 +1,6 @@
 # 💻 Teoría de la Programación
 ## Nombre:
-Jefferson Sarango
+Jefferson Sarango El PAPI de las nenas
 ## Fecha:
 28/10/2025
 ## Docente:
