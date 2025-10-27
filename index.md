@@ -2,14 +2,14 @@
 
 ---
 
-## Nombre:
-### Jefferson Sarango 
+## **Nombre:**
+### *Jefferson Sarango*
 
-## Fecha:
-28/10/2025
+## **Fecha:**
+### *28/10/2025*
 
-## Docente:
-Lissette  Lopez
+## **Docente:**
+### *Lissette  Lopez*
 
 ---
 
