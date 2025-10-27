@@ -3,7 +3,7 @@
 --
 
 ## Nombre:
-### Jefferson Sarango El PAPI de las nenas
+### Jefferson Sarango 
 
 ## Fecha:
 28/10/2025
