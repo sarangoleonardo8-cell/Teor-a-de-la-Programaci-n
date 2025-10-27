@@ -86,15 +86,29 @@ title: Unidad 1
   background-color: #f3f9ff;
   padding: 16px;
   border-radius: 8px;
+  line-height: 1.6;
+  font-size: 16px;
 ">
 
-Durante el desarrollo de la **Unidad 1: Fundamentos de Algoritmos y Programas**, comprendí la importancia de estructurar el pensamiento lógico antes de escribir cualquier línea de código.  
-Aprendí a representar procesos mediante **pseudocódigo** y **diagramas de flujo**, lo cual facilita la comprensión del problema y evita errores en la implementación.
+<p>
+Durante el desarrollo de la <b>Unidad 1: Fundamentos de Algoritmos y Programas</b>, comprendí la importancia de estructurar el pensamiento lógico antes de escribir cualquier línea de código.
+</p>
 
-Además, el trabajo con **estructuras secuenciales** permitió fortalecer las bases de la programación, entendiendo que cada instrucción tiene un propósito dentro del flujo del algoritmo.  
-Identifiqué también las **principales dificultades**, como la traducción de la lógica humana a un lenguaje formal, lo que exige práctica constante y atención a los detalles.
+<p>
+Aprendí a representar procesos mediante <b>pseudocódigo</b> y <b>diagramas de flujo</b>, lo cual facilita la comprensión del problema y evita errores en la implementación.
+</p>
 
-En conclusión, esta unidad me ayudó a desarrollar un pensamiento más **analítico, ordenado y preciso**, cualidades fundamentales para avanzar hacia unidades más complejas de programación.
+<p>
+Además, el trabajo con <b>estructuras secuenciales</b> permitió fortalecer las bases de la programación, entendiendo que cada instrucción tiene un propósito dentro del flujo del algoritmo.
+</p>
+
+<p>
+Identifiqué también las <b>principales dificultades</b>, como la traducción de la lógica humana a un lenguaje formal, lo que exige práctica constante y atención a los detalles.
+</p>
+
+<p>
+En conclusión, esta unidad me ayudó a desarrollar un pensamiento más <b>analítico, ordenado y preciso</b>, cualidades fundamentales para avanzar hacia unidades más complejas de programación.
+</p>
 
 </div>
 
@@ -113,3 +127,5 @@ En conclusión, esta unidad me ayudó a desarrollar un pensamiento más **analí
     🏠 Ir a la Página Principal
   </a>
 </p>
+
+---
