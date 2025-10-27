@@ -2,13 +2,28 @@
 
 ---
 
-## **Nombre:**
-### *Jefferson Sarango*
+## 🧑‍🎓 **Nombre:**
+### Jefferson Sarango
 
-## **Fecha:**
-### *28/10/2025*
+## 📅 **Fecha:**
+### 28/10/2025
 
-## **Docente:**
-### *Lissette  Lopez*
+## 👩‍🏫 **Docente:**
+### Lissette Lopez
 
 ---
+
+<p align="center">
+  <a href="principal.md" style="
+    display:inline-block;
+    background-color:#0078D7;
+    color:#fff;
+    padding:10px 18px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    📘 Ir a la Página Principal
+  </a>
+</p>
+
