@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unidad 1
+---
+
 # 🧩 Unidad 1 — Fundamentos de la Programación
 
 ---
