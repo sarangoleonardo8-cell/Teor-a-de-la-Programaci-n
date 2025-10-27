@@ -79,6 +79,27 @@ title: Unidad 1
 
 ---
 
+## 💭 **Reflexión Crítica de los Aprendizajes de la Unidad**
+
+<div style="
+  border-left: 6px solid #0078D7;
+  background-color: #f3f9ff;
+  padding: 16px;
+  border-radius: 8px;
+">
+
+Durante el desarrollo de la **Unidad 1: Fundamentos de Algoritmos y Programas**, comprendí la importancia de estructurar el pensamiento lógico antes de escribir cualquier línea de código.  
+Aprendí a representar procesos mediante **pseudocódigo** y **diagramas de flujo**, lo cual facilita la comprensión del problema y evita errores en la implementación.
+
+Además, el trabajo con **estructuras secuenciales** permitió fortalecer las bases de la programación, entendiendo que cada instrucción tiene un propósito dentro del flujo del algoritmo.  
+Identifiqué también las **principales dificultades**, como la traducción de la lógica humana a un lenguaje formal, lo que exige práctica constante y atención a los detalles.
+
+En conclusión, esta unidad me ayudó a desarrollar un pensamiento más **analítico, ordenado y preciso**, cualidades fundamentales para avanzar hacia unidades más complejas de programación.
+
+</div>
+
+---
+
 <p align="center">
   <a href="../principal" style="
     display:inline-block;
