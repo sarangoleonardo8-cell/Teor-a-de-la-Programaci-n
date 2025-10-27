@@ -1,0 +1,19 @@
+title: "Portafolio de Programación"
+description: "Proyectos, prácticas y aprendizajes desarrollados en la asignatura de Teoría de la Programación."
+theme: jekyll-theme-cayman
+
+# Información personal
+author: "Diyer Torres"
+
+# Personalización del tema
+show_excerpts: true
+minima:
+  skin: dark  # Cambia el estilo: opciones: classic, dark, auto, solarized-light, solarized-dark
+  date_format: "%d %B %Y"
+
+
+# Configuración básica
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
