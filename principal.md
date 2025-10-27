@@ -7,8 +7,7 @@ title: Principal
 
 ### 📘 Unidad 1 — Fundamentos de Algoritmos y programas
 Resumen de conceptos básicos, algoritmos y estructuras de control.
-[trabajos](trabajo1)
-[algoritmos](unidad.md)
+[Trabajos](./Unidades/Unidad1)
 
 ---
 
