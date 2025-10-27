@@ -80,7 +80,7 @@ title: Unidad 1
 ---
 
 <p align="center">
-  <a href="principal.md" style="
+  <a href="../principal" style="
     display:inline-block;
     background-color:#0078D7;
     color:#fff;
