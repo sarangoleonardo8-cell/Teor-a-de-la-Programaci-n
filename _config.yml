@@ -1,8 +1,8 @@
 title: "Portafolio de Programación"
-description: "Proyectos, prácticas y aprendizajes desarrollados en la asignatura de Teoría de la Programación."
-theme: jekyll-theme-modernist
+description: "Tarea de Teoría de la Programación."
+theme: jekyll-theme-tactile
 # Información personal
-author: "Diyer Torres"
+author: "Jefferson Sarango"
 
 # Personalización del tema
 show_excerpts: true
