@@ -3,38 +3,73 @@ layout: default
 title: Principal
 ---
 
-# 🗂️ Portafolio Digital de Aprendizaje
-
-### 📘 Unidad 1 — Fundamentos de Algoritmos y programas
-Resumen de conceptos básicos, algoritmos y estructuras de control.
-[Trabajos](./Unidades/Unidad1)
+# 🗂️ Portafolio Digital de Aprendizaje  
+### 💻 Teoría de la Programación
 
 ---
 
-### 💡 Unidad 2 — Paradigmas y Lenguajes
-Comparación entre paradigmas de programación y ejemplos en distintos lenguajes.
+## 📘 Unidad 1 — Fundamentos de Algoritmos y Programas
+> Resumen de conceptos básicos, algoritmos y estructuras de control.
+
+<p align="center">
+  <a href="./Unidades/Unidad1.md" style="
+    display:inline-block;
+    background-color:#28a745;
+    color:#fff;
+    padding:10px 16px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    🔗 Ir a la Unidad 1
+  </a>
+</p>
 
 ---
 
-### 🧩 Unidad 3 — Aplicaciones Prácticas
-Desarrollo de ejercicios, proyectos y resolución de problemas reales.
+## 💡 Unidad 2 — Paradigmas y Lenguajes  
+<div style="
+  border:2px dashed #f1c40f;
+  background-color:#fffbea;
+  padding:12px;
+  border-radius:10px;
+">
+🚧 <b>En desarrollo:</b> Esta unidad se habilitará una vez finalizados los contenidos de la Unidad 1.  
+Comparará los principales paradigmas de programación y mostrará ejemplos en distintos lenguajes.
+</div>
 
 ---
 
-### 🧠 Conclusiones
-Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la programación.
+## 🧩 Unidad 3 — Aplicaciones Prácticas  
+<div style="
+  border:2px dashed #95a5a6;
+  background-color:#f4f6f7;
+  padding:12px;
+  border-radius:10px;
+">
+🕓 <b>Pendiente:</b> En esta unidad se desarrollarán ejercicios, proyectos y la resolución de problemas reales una vez avanzadas las unidades anteriores.
+</div>
 
 ---
 
-### 📚 Referencias
+## 🧠 Conclusiones  
+Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la programación.  
+*(Se completará al finalizar todas las unidades.)*
+
+---
+
+## 📚 Referencias  
 - Libro: *Introducción a la Programación* — Daniel Joyner  
 - Sitio web: [MDN Web Docs](https://developer.mozilla.org/es/)  
 - Curso: *Fundamentos de Programación* en [OpenAI Learning](https://openai.com/learn)
 
 ---
 
-### 🤖 Uso Determinado de la IA
-La inteligencia artificial se utilizó para obtener explicaciones, generar ejemplos y mejorar la presentación del portafolio.
+## 🤖 Uso Determinado de la IA  
+La inteligencia artificial se utilizó como apoyo para:  
+- Obtener explicaciones y ejemplos prácticos.  
+- Mejorar la redacción y presentación del portafolio.  
+- Organizar contenidos y secciones.
 
 ---
 
@@ -48,6 +83,6 @@ La inteligencia artificial se utilizó para obtener explicaciones, generar ejemp
     text-decoration:none;
     font-weight:bold;
   ">
-    📘 Ir a la Caratula
+    📘 Ir a la Carátula
   </a>
 </p>
