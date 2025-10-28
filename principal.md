@@ -59,12 +59,15 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 ---
 
 ## 📚 Referencias  
-- G. Cimas, Visual Studio Code: Editor de código para desarrolladores, 2022.<a href="https://drive.google.com/file/d/152bzALVXT-AoEI_l1PbVG_yGk7Gsi-qz/view?usp=drive_link.md">
-- R. Kumar, La historia no contada de Visual Studio Code: una revolución en el desarrollo de software, 2024. 
-- K. Walker, Visual Studio vs Visual Studio Code: ¿cuál es la diferencia?, 2024. 
-- A. Robledano, Qué es pseudocódigo y por qué es esencial en programación, 2020. 
-- E. E. d. Dovetail, Comprensión de los diagramas de flujo: conceptos clave y usos, 2024. 
-- R. Morales, Herramientas de pseudocódigo específicas, 2023.
+- **Goin, M.** (2022). *Caminando junto al Lenguaje C*. Editorial UNRN.  
+  Disponible en: <https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1>
+
+- **Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E.** (2023). *Programando en C desde la práctica: Problemas resueltos*. Puerto Madero Editorial.  
+  Disponible en: <https://dialnet.unirioja.es/servlet/libro?codigo=933288>
+
+- **Toro Bonilla, J. M.** (2022). *Fundamentos de Programación: JAVA*. Editorial Universidad de Sevilla.  
+  Disponible en: <https://dialnet.unirioja.es/servlet/libro?codigo=871118>
+  
 ---
 
 ## 🤖 Uso Determinado de la IA  
