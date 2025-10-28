@@ -59,10 +59,12 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 ---
 
 ## 📚 Referencias  
-- Libro: *Introducción a la Programación* — Daniel Joyner  
-- Sitio web: [MDN Web Docs](https://developer.mozilla.org/es/)  
-- Curso: *Fundamentos de Programación* en [OpenAI Learning](https://openai.com/learn)
-
+- G. Cimas, Visual Studio Code: Editor de código para desarrolladores, 2022. 
+- R. Kumar, La historia no contada de Visual Studio Code: una revolución en el desarrollo de software, 2024. 
+- K. Walker, Visual Studio vs Visual Studio Code: ¿cuál es la diferencia?, 2024. 
+- A. Robledano, Qué es pseudocódigo y por qué es esencial en programación, 2020. 
+- E. E. d. Dovetail, Comprensión de los diagramas de flujo: conceptos clave y usos, 2024. 
+- R. Morales, Herramientas de pseudocódigo específicas, 2023. 
 ---
 
 ## 🤖 Uso Determinado de la IA  
