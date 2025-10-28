@@ -60,15 +60,32 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 
 ## 📚 Referencias  
 
-- **Celi Párraga, R. J., Bone Andrade, M. F., & Mora Olivero, A. P.** (2023). *Programación Web del Frontend al Backend*. Editorial Grupo AEA.  
-  Disponible en: [link](https://dialnet.unirioja.es/servlet/libro?codigo=933116)
+ **Cimas, G.** (2022). *Visual Studio Code: Editor de código para desarrolladores*.  
+  [Link](https://openwebinars.net/blog/visual-studio-code-editor-de-codigo-para-desarrolladores/)
 
-- **Figueroa Piscoya, E. N., Maldonado Ramírez, I., & Santa Cruz Acosta, R. C.** (2021). *Fundamentos de programación*. Biblioteca Nacional del Perú.  
-  Disponible en: [link](https://virtual.autonoma.edu.pe/uploads/10-03-2023_141635939_ANICAMASILVAJOSECARLOS.pdf)
+- **Kumar, R.** (2024). *La historia no contada de Visual Studio Code: una revolución en el desarrollo de software*.  
+  [Link](https://dev.to/rajeshkumaryadavdotcom/the-untold-story-of-visual-studio-code-a-revolution-in-software-development-44pp)
+
+- **Walker, K.** (2024). *Visual Studio vs Visual Studio Code: ¿Cuál es la diferencia?*.  
+  [Link](https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/)
+
+- **Robledano, A.** (2020). *Qué es pseudocódigo y por qué es esencial en programación*.  
+  [Link](https://openwebinars.net/blog/que-es-pseudocodigo/)
+
+- **Dovetail, E. E. de.** (2024). *Comprensión de los diagramas de flujo: conceptos clave y usos*.  
+  [Link](https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo)
+
+- **Morales, R.** (2023). *Herramientas de pseudocódigo específicas*.  
+  [Link](https://www.libreria.educacion.gob.es/libro/observatorio-de-tecnologia-educativa-no-103-pseint-programando-en-pseudocodigo_184078/)
 
 - **Goin, M.** (2022). *Caminando junto al Lenguaje C*. Editorial UNRN.  
-  Disponible en: [link](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1)
+  [Link](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1)
 
+- **Guerra Salazar, J. E., Ramos Valencia, M. V., Vallejo Vallejo, G. E.** (2023). *Programando en C desde la práctica: problemas resueltos*. Puerto Madero Editorial.  
+  [Link](https://dialnet.unirioja.es/servlet/libro?codigo=933288)
+
+- **Toro Bonilla, J. M.** (2022). *Fundamentos de programación: Java*. Universidad de Sevilla, Editorial Universidad de Sevilla.  
+  [Link](https://dialnet.unirioja.es/servlet/libro?codigo=871118)
   
 ---
 
