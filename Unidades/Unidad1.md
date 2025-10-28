@@ -56,7 +56,7 @@ title: Unidad 1
   <tr>
     <td><b>Tarea 1:</b> Herramientas de Algoritmos</td>
     <td>Uso de herramientas digitales para crear pseudocódigo y diagramas de flujo.</td>
-    <td><a href="https://1drv.ms/b/c/6a357cd5a8807a4f/ERiBh235ipVAlfwOi53IVhQBCDwv4j0ZEBs9r9RlUvX3HA?e=Ra3hd8.md">Ver deber</a></td>
+    <td><a href="https://drive.google.com/file/d/1LvY3bHDRHqNuHrULtuZJpDfVQYlWoEFH/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
     <td><b>Tarea 2:</b> Instalación de Lenguajes</td>
