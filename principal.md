@@ -63,7 +63,7 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
   Disponible en: <https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1>
 
 - **Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E.** (2023). *Programando en C desde la práctica: Problemas resueltos*. Puerto Madero Editorial.  
-  Disponible en: <https://dialnet.unirioja.es/servlet/libro?codigo=933288>
+  [Disponible en:] (<https://dialnet.unirioja.es/servlet/libro?codigo=933288>)
 
 - **Toro Bonilla, J. M.** (2022). *Fundamentos de Programación: JAVA*. Editorial Universidad de Sevilla.  
   Disponible en: <https://dialnet.unirioja.es/servlet/libro?codigo=871118>
