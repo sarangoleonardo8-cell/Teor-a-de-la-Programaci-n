@@ -17,32 +17,6 @@ title: Unidad 1
 
 ---
 
-## 🧠 **Actividades Realizadas en Clase**
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>🪶 Título</th>
-    <th>📄 Descripción</th>
-    <th>🔗 Enlace</th>
-  </tr>
-  <tr>
-    <td><b>Actividad 1:</b> Creación de Algoritmos</td>
-    <td>Diseño de un algoritmo básico usando pseudocódigo para resolver un problema cotidiano.</td>
-    <td><a href="actividad1.md">Ver documento</a></td>
-  </tr>
-  <tr>
-    <td><b>Actividad 2:</b> Diagramas de Flujo</td>
-    <td>Representación gráfica del algoritmo mediante un diagrama de flujo con bloques lógicos.</td>
-    <td><a href="actividad2.md">Ver documento</a></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📝 **Tareas Entregadas**
 
 <div align="center">
@@ -55,23 +29,23 @@ title: Unidad 1
   </tr>
   <tr>
     <td><b>Tarea 1:</b> Herramientas de Algoritmos</td>
-    <td>Uso de herramientas digitales para crear pseudocódigo y diagramas de flujo.</td>
-    <td><a href="https://drive.google.com/file/d/1LvY3bHDRHqNuHrULtuZJpDfVQYlWoEFH/view?usp=drive_link.md">Ver deber</a></td>
+    <td>Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.</td>
+    <td><a href="https://drive.google.com/file/d/152bzALVXT-AoEI_l1PbVG_yGk7Gsi-qz/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
     <td><b>Tarea 2:</b> Instalación de Lenguajes</td>
-    <td>Instalación y configuración de C, Python o Java para el entorno de programación.</td>
-    <td><a href="tarea2.md">Ver deber</a></td>
+    <td>Del diseño del algoritmo con estructuras secuenciales a la construcción del programa..</td>
+    <td><a href="https://drive.google.com/file/d/14mabnbSOWlxdCAS9pXrH_x5-ZGDVL2kw/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
     <td><b>Tarea 3:</b> Estructuras Secuenciales</td>
-    <td>Creación de algoritmos con estructuras lineales en pseudocódigo.</td>
-    <td><a href="tarea3.md">Ver deber</a></td>
+    <td>Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.</td>
+    <td><a href="https://drive.google.com/file/d/1WeVUnB9ImfV-kOxk-2VVuvFJ9ofL9zMk/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
     <td><b>Tarea 4:</b> Del Algoritmo al Programa</td>
-    <td>Conversión del diseño del algoritmo en código ejecutable dentro de un lenguaje de programación.</td>
-    <td><a href="tarea4.md">Ver deber</a></td>
+    <td>Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java).</td>
+    <td><a href="https://drive.google.com/file/d/1zeNKcmTIFCxACPx4wcPHMo48C1_BM9B1/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
 </table>
 
