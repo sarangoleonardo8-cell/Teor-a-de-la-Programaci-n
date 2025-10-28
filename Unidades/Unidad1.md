@@ -53,6 +53,29 @@ title: Unidad 1
 
 ---
 
+## 💾 Códigos de Programación realizados
+
+<div align="center">
+
+<a href="./Actividades/Unidad1" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Códigos en C
+</a>
+
+</div>
+
+---
+
 ## 💭 **Reflexión Crítica de los Aprendizajes de la Unidad**
 
 <div style="
