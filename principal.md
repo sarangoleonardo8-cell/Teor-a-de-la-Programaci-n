@@ -59,14 +59,16 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 ---
 
 ## 📚 Referencias  
+
+- **Celi Párraga, R. J., Bone Andrade, M. F., & Mora Olivero, A. P.** (2023). *Programación Web del Frontend al Backend*. Editorial Grupo AEA.  
+  Disponible en: [link](https://dialnet.unirioja.es/servlet/libro?codigo=933116)
+
+- **Figueroa Piscoya, E. N., Maldonado Ramírez, I., & Santa Cruz Acosta, R. C.** (2021). *Fundamentos de programación*. Biblioteca Nacional del Perú.  
+  Disponible en: [link](https://virtual.autonoma.edu.pe/uploads/10-03-2023_141635939_ANICAMASILVAJOSECARLOS.pdf)
+
 - **Goin, M.** (2022). *Caminando junto al Lenguaje C*. Editorial UNRN.  
-  Disponible en: <https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1>
+  Disponible en: [link](https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1)
 
-- **Guerra Salazar, J. E., Ramos Valencia, M. V., & Vallejo Vallejo, G. E.** (2023). *Programando en C desde la práctica: Problemas resueltos*. Puerto Madero Editorial.  
-  [Disponible en:] (<https://dialnet.unirioja.es/servlet/libro?codigo=933288.md>)
-
-- **Toro Bonilla, J. M.** (2022). *Fundamentos de Programación: JAVA*. Editorial Universidad de Sevilla.  
-  Disponible en: <https://dialnet.unirioja.es/servlet/libro?codigo=871118>
   
 ---
 
