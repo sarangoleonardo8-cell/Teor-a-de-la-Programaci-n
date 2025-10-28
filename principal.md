@@ -59,7 +59,7 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 ---
 
 ## 📚 Referencias  
-- G. Cimas, Visual Studio Code: Editor de código para desarrolladores, 2022. 
+- G. Cimas, Visual Studio Code: Editor de código para desarrolladores, 2022.<a href="https://drive.google.com/file/d/152bzALVXT-AoEI_l1PbVG_yGk7Gsi-qz/view?usp=drive_link.md">
 - R. Kumar, La historia no contada de Visual Studio Code: una revolución en el desarrollo de software, 2024. 
 - K. Walker, Visual Studio vs Visual Studio Code: ¿cuál es la diferencia?, 2024. 
 - A. Robledano, Qué es pseudocódigo y por qué es esencial en programación, 2020. 
