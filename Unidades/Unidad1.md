@@ -28,22 +28,22 @@ title: Unidad 1
     <th>🔗 Enlace</th>
   </tr>
   <tr>
-    <td><b>Tarea 1:</b> Herramientas de Algoritmos</td>
+    <td><b>Tarea 1:</b> Primer Acercamiento</td>
     <td>Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.</td>
     <td><a href="https://drive.google.com/file/d/152bzALVXT-AoEI_l1PbVG_yGk7Gsi-qz/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 2:</b> Instalación de Lenguajes</td>
+    <td><b>Tarea 2:</b> Diseño de Algoritmo</td>
     <td>Del diseño del algoritmo con estructuras secuenciales a la construcción del programa..</td>
     <td><a href="https://drive.google.com/file/d/14mabnbSOWlxdCAS9pXrH_x5-ZGDVL2kw/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 3:</b> Estructuras Secuenciales</td>
+    <td><b>Tarea 3:</b> Exploracion y uso de Herramientas</td>
     <td>Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.</td>
     <td><a href="https://drive.google.com/file/d/1WeVUnB9ImfV-kOxk-2VVuvFJ9ofL9zMk/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 4:</b> Del Algoritmo al Programa</td>
+    <td><b>Tarea 4:</b> Instalacion de Programas</td>
     <td>Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java).</td>
     <td><a href="https://drive.google.com/file/d/1zeNKcmTIFCxACPx4wcPHMo48C1_BM9B1/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
