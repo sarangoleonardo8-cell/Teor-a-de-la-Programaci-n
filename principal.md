@@ -59,12 +59,23 @@ Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la pro
 ---
 
 ## 📚 Referencias  
-- G. Cimas, Visual Studio Code: Editor de código para desarrolladores, 2022. 
-- R. Kumar, La historia no contada de Visual Studio Code: una revolución en el desarrollo de software, 2024. 
-- K. Walker, Visual Studio vs Visual Studio Code: ¿cuál es la diferencia?, 2024. 
-- A. Robledano, Qué es pseudocódigo y por qué es esencial en programación, 2020. 
-- E. E. d. Dovetail, Comprensión de los diagramas de flujo: conceptos clave y usos, 2024. 
-- R. Morales, Herramientas de pseudocódigo específicas, 2023. 
+**Cimas, G.** (2022). *Visual Studio Code: Editor de código para desarrolladores*. OpenWebinars.  
+  https://openwebinars.net/blog/visual-studio-code-editor-de-codigo-para-desarrolladores/ . :contentReference[oaicite:0]{index=0}
+
+- **Kumar, R.** (2024). *La historia no contada de Visual Studio Code: una revolución en el desarrollo de software*. (Entrada de blog / artículo).  
+  https://dev.to/rajeshkumaryadavdotcom/the-untold-story-of-visual-studio-code-a-revolution-in-software-development-44pp . :contentReference[oaicite:1]{index=1}
+
+- **Walker, K.** (2024). *Visual Studio vs Visual Studio Code: ¿Cuál es la diferencia?* — (si no existe versión pública con ese autor, aquí una comparación actual y de referencia).  
+  https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/ . :contentReference[oaicite:2]{index=2}
+
+- **Robledano, A.** (2020). *Qué es pseudocódigo y por qué es esencial en programación*. OpenWebinars.  
+  https://openwebinars.net/blog/que-es-pseudocodigo/ . :contentReference[oaicite:3]{index=3}
+
+- **Dovetail, E. E. d.** (2024). *Comprensión de los diagramas de flujo: conceptos clave y usos*. (Si la referencia original no está disponible públicamente, dejo una guía actual y didáctica sobre diagramas de flujo).  
+  https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo . :contentReference[oaicite:4]{index=4}
+
+- **Morales, R.** (2023). *Herramientas de pseudocódigo específicas*. (No encontré ese título exacto; como alternativa con lista de herramientas/diff recursos sobre pseudocódigo y entornos educativos: PSeInt / recursos académicos).  
+  https://www.libreria.educacion.gob.es/libro/observatorio-de-tecnologia-educativa-no-103-pseint-programando-en-pseudocodigo_184078/ . :contentReference[oaicite:5]{index=5}
 ---
 
 ## 🤖 Uso Determinado de la IA  
