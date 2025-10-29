@@ -15,7 +15,9 @@ title: Unidad 1
 A continuacion presentare un ejemplo de un programa en pseudocodigo(Imagen 1)
 
 IMAGEN 1:Calcular la edad ,dado su año de nacimiento y el año actual
+
 ![Pseudocodigo](./Imagenes/Captura-de-pantalla-2025-10-29-095015.png)
+
 -**Diaframa de Flujo**:Un diagrama de flujo es un tipo de diagrama que explica visualmente un proceso o flujo de trabajo, por lo que también se llama flujograma. Utilizando símbolos y definiciones estandarizadas, los diagramas de flujo describen visualmente los diferentes pasos y decisiones de un proceso.
 A continuacion un ejemplo de diagrama de flujo(Imagen 2)
 
