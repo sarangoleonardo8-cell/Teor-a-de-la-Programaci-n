@@ -9,7 +9,12 @@ title: Unidad 1
 
 ## 📘 **Contenidos de la Unidad**
 
-- Algoritmos, pseudocódigo y diagramas de flujo.  
+- Algoritmos, pseudocódigo y diagramas de flujo.
+- **Algoritmos**:Un algoritmo es un conjunto de operaciones que busca resolver un problema determinado a través de secuencias lógicas. Este procedimiento esquemático emplea una serie de pasos, como una receta, los cuales pueden ser formulados de diferentes maneras cuidando que en dicha combinación no se produzca una ambigüedad.
+- **Pseudocodigo**:es una descripción informal de un algoritmo o un programa, escrito en un lenguaje natural estructurado que imita la lógica del código pero sin seguir las reglas estrictas de la sintaxis de un lenguaje de programación. Su propósito principal es mostrar el flujo lógico de un programa o sistema de manera que cualquier persona
+A continuacion presentare un ejemplo de un programa en pseudocodigo(Imagen 1)
+IMAGEN 1:Calcular la edad dado su año de nacimiento y el año actual
+
 - Programación por bloques.  
 - Ejemplos de algoritmos con estructuras lineales o secuenciales.  
 - Principales dificultades en la aplicación de los contenidos.  
