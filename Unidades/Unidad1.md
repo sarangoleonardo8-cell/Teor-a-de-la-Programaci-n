@@ -33,7 +33,7 @@ A continuacion un ejemplo de diagrama de flujo(Imagen 2)
 
 IMAGEN 2:Igualmente calcula la edad del usuario,dado su año de nacimiento y año actual.
 
-![Diagrama de Flujo](./u1/Captura de pantalla 2025-10-29 085740.png)
+![Diagrama de Flujo](u1/Captura de pantalla 2025-10-29 085740.png)
 - Programación por bloques.  
 - Ejemplos de algoritmos con estructuras lineales o secuenciales.  
 - Principales dificultades en la aplicación de los contenidos.  
