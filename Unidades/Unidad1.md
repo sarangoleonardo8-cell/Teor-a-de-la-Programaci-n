@@ -13,7 +13,8 @@ title: Unidad 1
 - **Algoritmos**:Un algoritmo es un conjunto de operaciones que busca resolver un problema determinado a través de secuencias lógicas. Este procedimiento esquemático emplea una serie de pasos, como una receta, los cuales pueden ser formulados de diferentes maneras cuidando que en dicha combinación no se produzca una ambigüedad.
 - **Pseudocodigo**:es una descripción informal de un algoritmo o un programa, escrito en un lenguaje natural estructurado que imita la lógica del código pero sin seguir las reglas estrictas de la sintaxis de un lenguaje de programación. Su propósito principal es mostrar el flujo lógico de un programa o sistema de manera que cualquier persona
 A continuacion presentare un ejemplo de un programa en pseudocodigo(Imagen 1)
-IMAGEN 1:Calcular la edad dado su año de nacimiento y el año actual
+
+IMAGEN 1:Calcular la edad ,dado su año de nacimiento y el año actual
 ```pseint
 Algoritmo Calculo_edad
 	Definir año_a Como Real
@@ -27,6 +28,12 @@ Algoritmo Calculo_edad
 	Escribir "su edad es ", edad
 FinAlgoritmo
 ```
+-**Diaframa de Flujo**:Un diagrama de flujo es un tipo de diagrama que explica visualmente un proceso o flujo de trabajo, por lo que también se llama flujograma. Utilizando símbolos y definiciones estandarizadas, los diagramas de flujo describen visualmente los diferentes pasos y decisiones de un proceso.
+A continuacion un ejemplo de diagrama de flujo(Imagen 2)
+
+IMAGEN 2:Igualmente calcula la edad del usuario,dado su año de nacimiento y año actual.
+
+![Diagrama de Flujo](img width="500" height="659" alt="Captura de pantalla 2025-10-29 085740" src="https://github.com/user-attachments/assets/bb93d013-363d-459c-a43c-7074063cbf42")
 - Programación por bloques.  
 - Ejemplos de algoritmos con estructuras lineales o secuenciales.  
 - Principales dificultades en la aplicación de los contenidos.  
