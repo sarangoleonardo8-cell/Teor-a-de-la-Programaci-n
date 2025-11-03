@@ -15,7 +15,7 @@ En esta sección se recopilan los programas desarrollados en **PSeInt**, junto c
 **Descripción:** Realize primera programacion.
 
 **Código:**
-```c
+```pseint
 #include <stdio.h>
 #include <string.h>
 
@@ -47,7 +47,7 @@ int main(){
 3. Uso de un puntero a cadena de solo lectura.
 
 **Código:**
-```c
+```pseint
 #include <stdio.h>
 #include <stdlib.h>
 int main (){
@@ -91,7 +91,7 @@ int main (){
 **Descripción:** Programa que solicita un número al usuario y calcula su doble y su triple, mostrando ambos resultados.
 
 **Código:**
-```c
+```pseint
 #include <stdio.h>
 #include <string.h>
 
@@ -120,7 +120,7 @@ int main(){
 **Descripción:** Programa que convierte una cantidad dada en pies a yardas, pulgadas, centímetros y metros, mostrando los resultados equivalentes.
 
 **Código:**
-```c
+```pseint
 #include <stdio.h>
 #include <string.h>
 
@@ -153,7 +153,7 @@ int main(){
 **Descripción:** Programa que calcula la aceleración de un objeto utilizando la fórmula física \( a = \frac{v_f - v_i}{t} \), donde se ingresan la velocidad inicial, la velocidad final y el tiempo.
 
 **Código:**
-```c
+```pseint
 #include <stdio.h>
 #include <string.h>
 
@@ -187,7 +187,7 @@ int main(){
 **Descripción:** Programa que convierte una cantidad en metros a kilómetros, centímetros y milímetros, mostrando los resultados con dos decimales.
 
 **Código:**
-```c
+```pseint
 #include <stdio.h>
 #include <string.h>
 
