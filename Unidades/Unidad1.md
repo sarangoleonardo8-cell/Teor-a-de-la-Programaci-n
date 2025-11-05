@@ -99,7 +99,7 @@ IMAGEN 2:Igualmente calcula la edad del usuario,dado su año de nacimiento y añ
     display: inline-block;
     margin: 5px;
 ">
-💻 Códigos en C
+💻 Códigos en PSeInt
 </a>
 
 </div>
