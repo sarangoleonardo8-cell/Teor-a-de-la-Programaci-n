@@ -22,9 +22,23 @@ Su principal propósito es **mostrar el flujo lógico de un programa o sistema**
 
 📌 **Ejemplo:** Calcular la edad de una persona, dado su año de nacimiento y el año actual.  
 
-**IMAGEN 1:** Pseudocódigo para calcular la edad.  
+```pseudocode
+Algoritmo Calculo_edad
+	Definir ANO_A, ANO_N Como Entero;
+	Definir edad Como Entero;
+	
+	Escribir "Ingrese el año de nacimiento:";
+	Leer ANO_N;
+	
+	Escribir "Ingrese el año actual:";
+	Leer ANO_A;
+	
+	edad = ANO_A - ANO_N;
+	
+	Escribir "Su edad es: ", edad, " años.";
+FinAlgoritmo
 
-![Pseudocódigo](./Imagenes/Captura-de-pantalla-2025-10-29-095015.png)
+```
 
 ---
 
@@ -34,7 +48,7 @@ Utiliza **símbolos estandarizados** (óvalos, rectángulos, rombos, flechas, et
 
 📌 **Ejemplo:** Diagrama de flujo que calcula la edad del usuario, dado su año de nacimiento y el año actual.  
 
-**IMAGEN 2:** Diagrama de flujo del cálculo de edad.  
+**IMAGEN 1:** Diagrama de flujo del cálculo de edad.  
 
 ![Diagrama de Flujo](./Imagenes/calculo_edad.png)
 
@@ -44,7 +58,7 @@ Utiliza **símbolos estandarizados** (óvalos, rectángulos, rombos, flechas, et
 La **programación por bloques** es una forma visual de crear programas utilizando bloques gráficos que representan instrucciones.  
 Cada bloque cumple una función específica (acciones, condiciones, bucles, variables, etc.) y se conectan entre sí como piezas de rompecabezas para formar el flujo del programa.  
 
-**IMAGEN 3:** Programacion por bloques en [Blockly Games](https://blockly.games/?lang=en).  
+**IMAGEN 2:** Programacion por bloques en [Blockly Games](https://blockly.games/?lang=en).  
 
 ![Diagrama de Flujo](./Imagenes/programar_bloques.png)
 
