@@ -44,6 +44,8 @@ Utiliza **símbolos estandarizados** (óvalos, rectángulos, rombos, flechas, et
 La **programación por bloques** es una forma visual de crear programas utilizando bloques gráficos que representan instrucciones.  
 Cada bloque cumple una función específica (acciones, condiciones, bucles, variables, etc.) y se conectan entre sí como piezas de rompecabezas para formar el flujo del programa.  
 
+**IMAGEN 3:** Programacion por bloques en [Blockly Games](https://blockly.games/?lang=en).  
+
 ![Diagrama de Flujo](./Imagenes/programar_bloques.png)
 
 Este enfoque es ideal para **principiantes y entornos educativos**, ya que permite centrarse en la lógica de la programación sin preocuparse por la sintaxis.  
