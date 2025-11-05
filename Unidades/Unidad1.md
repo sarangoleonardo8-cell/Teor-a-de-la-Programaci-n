@@ -6,29 +6,95 @@ title: Unidad 1
 # 🧩 Unidad 1 — Fundamentos de la Programación
 
 ---
-
 ## 📘 **Contenidos de la Unidad**
 
-- Algoritmos, pseudocódigo y diagramas de flujo.
-- **Algoritmos**:Un algoritmo es un conjunto de operaciones que busca resolver un problema determinado a través de secuencias lógicas. Este procedimiento esquemático emplea una serie de pasos, como una receta, los cuales pueden ser formulados de diferentes maneras cuidando que en dicha combinación no se produzca una ambigüedad.
-- **Pseudocodigo**:es una descripción informal de un algoritmo o un programa, escrito en un lenguaje natural estructurado que imita la lógica del código pero sin seguir las reglas estrictas de la sintaxis de un lenguaje de programación. Su propósito principal es mostrar el flujo lógico de un programa o sistema de manera que cualquier persona
-A continuacion presentare un ejemplo de un programa en pseudocodigo(Imagen 1)
+- **Algoritmos, pseudocódigo y diagramas de flujo.**
 
-IMAGEN 1:Calcular la edad ,dado su año de nacimiento y el año actual
+### 🧮 **Algoritmos**
+Un **algoritmo** es un conjunto ordenado y finito de operaciones que permiten resolver un problema o realizar una tarea específica.  
+Su funcionamiento se basa en una **secuencia lógica de pasos**, similar a una receta, donde cada instrucción debe ser clara, precisa y sin ambigüedades para lograr el resultado deseado.
 
-![Pseudocodigo](./Imagenes/Captura-de-pantalla-2025-10-29-095015.png)
+---
 
--**Diaframa de Flujo**:Un diagrama de flujo es un tipo de diagrama que explica visualmente un proceso o flujo de trabajo, por lo que también se llama flujograma. Utilizando símbolos y definiciones estandarizadas, los diagramas de flujo describen visualmente los diferentes pasos y decisiones de un proceso.
-A continuacion un ejemplo de diagrama de flujo(Imagen 2)
+### 💻 **Pseudocódigo**
+El **pseudocódigo** es una **descripción informal de un algoritmo**, escrita en un lenguaje natural estructurado que imita la lógica del código, pero sin seguir las reglas estrictas de un lenguaje de programación.  
+Su principal propósito es **mostrar el flujo lógico de un programa o sistema**, facilitando la comprensión del proceso antes de traducirlo a un lenguaje formal.
 
-IMAGEN 2:Igualmente calcula la edad del usuario,dado su año de nacimiento y año actual.
+📌 **Ejemplo:** Calcular la edad de una persona, dado su año de nacimiento y el año actual.  
+
+**IMAGEN 1:** Pseudocódigo para calcular la edad.  
+
+![Pseudocódigo](./Imagenes/Captura-de-pantalla-2025-10-29-095015.png)
+
+---
+
+### 🔄 **Diagrama de Flujo**
+Un **diagrama de flujo** es una representación visual que muestra el proceso o secuencia de pasos de un algoritmo.  
+Utiliza **símbolos estandarizados** (óvalos, rectángulos, rombos, flechas, etc.) para representar operaciones, decisiones y el flujo general del programa.
+
+📌 **Ejemplo:** Diagrama de flujo que calcula la edad del usuario, dado su año de nacimiento y el año actual.  
+
+**IMAGEN 2:** Diagrama de flujo del cálculo de edad.  
 
 ![Diagrama de Flujo](./Imagenes/calculo_edad.png)
 
-- Programación por bloques.  
-- Ejemplos de algoritmos con estructuras lineales o secuenciales.  
-- Principales dificultades en la aplicación de los contenidos.  
-- Reflexión crítica de los aprendizajes de la unidad.
+---
+
+### 🧩 **Programación por Bloques**
+La **programación por bloques** es una forma visual de crear programas utilizando bloques gráficos que representan instrucciones.  
+Cada bloque cumple una función específica (acciones, condiciones, bucles, variables, etc.) y se conectan entre sí como piezas de rompecabezas para formar el flujo del programa.  
+
+![Diagrama de Flujo](./Imagenes/programar_bloques.png)
+
+Este enfoque es ideal para **principiantes y entornos educativos**, ya que permite centrarse en la lógica de la programación sin preocuparse por la sintaxis.  
+Algunos ejemplos de entornos que usan este método son **Scratch, Blockly y GDevelop**.
+
+📘 **Ventajas:**
+- Facilita la comprensión de la lógica de los programas.  
+- Reduce errores sintácticos.  
+- Favorece el aprendizaje visual y práctico.  
+
+📌 **Ejemplo:** Programa en bloques que calcula la edad del usuario y la muestra en pantalla.
+
+---
+
+### ⚙️ **Ejemplos de Algoritmos con Estructuras Lineales o Secuenciales**
+Una **estructura secuencial** es aquella en la que las instrucciones se ejecutan **una tras otra**, en el mismo orden en que se escriben, sin saltos ni decisiones intermedias.
+
+📘 **Ejemplo práctico:**  
+Algoritmo que calcula el área de un rectángulo:
+
+```pseudocode
+Algoritmo CalcularAreaRectangulo
+	Definir base, altura, area Como Real;
+	
+	Escribir "Ingrese la base del rectángulo:";
+	Leer base;
+	
+	Escribir "Ingrese la altura del rectángulo:";
+	Leer altura;
+	
+	area = base * altura;
+	
+	Escribir "El área del rectángulo es: ", area;
+FinAlgoritmo
+```
+
+📊 Este tipo de algoritmo se utiliza en situaciones donde **todas las instrucciones deben ejecutarse exactamente una vez y en orden**.
+
+---
+
+### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
+Durante el aprendizaje y aplicación de los algoritmos, pseudocódigos y diagramas de flujo, suelen presentarse algunas dificultades comunes:
+
+- Confusión al **identificar la secuencia lógica** correcta de pasos.  
+- Uso incorrecto de los **símbolos en los diagramas de flujo**.  
+- Problemas para **traducir un pseudocódigo a un lenguaje de programación real**.  
+- Dificultad para **diseñar algoritmos eficientes** que resuelvan el problema sin redundancias.  
+- Errores al **comprender la relación entre entrada, proceso y salida**.  
+
+💡 **Recomendación:** practicar con ejercicios simples y comparar soluciones, utilizando tanto pseudocódigo como diagramas de flujo, ayuda a fortalecer la comprensión del proceso lógico.
+
 
 ---
 
