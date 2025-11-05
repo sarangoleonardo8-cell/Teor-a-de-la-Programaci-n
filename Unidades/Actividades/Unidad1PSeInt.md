@@ -5,211 +5,160 @@ title: Unidad 1 Actividades en PSeInt
 
 # 💻 Códigos en PSeInt realizados
 
-En esta sección se recopilan los programas desarrollados en **PSeInt**, junto con su descripción, propósito y código fuente.
+En esta sección se recopilan los programas desarrollados en **PSeInt**, junto con su descripción, propósito, diagrama de flujo y código fuente.  
+Cada ejemplo busca reforzar la comprensión de la lógica algorítmica y las estructuras fundamentales de programación.
 
 ---
 
-## 🔹 Ejemplo 1 — Resta
+## 🔹 Ejemplo 1 — Cálculo del promedio de notas
 
-**Archivo:** `MIPRIMERPROGAMA.c`  
-**Descripción:** Realize primera programacion.
+**Archivo:** `promedio_notas.psc`  
+**Descripción:**  
+Este algoritmo permite calcular el promedio de un conjunto de notas ingresadas por el usuario.  
+Primero solicita la cantidad de notas a evaluar, luego las almacena en un arreglo y finalmente calcula el promedio general.  
+Además, determina si el estudiante se encuentra **aprobado** o **reprobado** según el valor del promedio (umbral = 7).
 
 **Código:**
+
 ```pseint
-#include <stdio.h>
-#include <string.h>
-
-int main(){
-    float  N1,N2,resta;
-
-    printf("ingrese N1\n");
-    scanf("%f", &N1 );
-    printf("ingrese N2\n");
-    scanf("%f", &N2);
-
-    resta=N1-N2;
-    
-    printf("El resultado es:%.2f",resta);
-
-    return 0;
-}
-
+Algoritmo promedio_notas;
+	Definir n, i Como Entero;
+	Definir notas, suma, promedio Como Real;
+	Definir estado Como Caracter;
+	
+	Escribir ("Ingrese el número de notas:");
+	Leer n;
+	
+	Dimensionar notas[n];
+	suma = 0;
+	
+	Para i = 1 Hasta n Con Paso 1 Hacer
+		Escribir ("Ingrese la nota ", i, ":");
+		Leer notas[i];
+		suma = suma + notas[i];
+	Fin Para;
+	
+	promedio = suma / n;
+	
+	Si promedio >= 7 Entonces
+		estado = "Aprobado";
+	SiNo
+		estado = "Reprobado";
+	Fin Si;
+	
+	Escribir ("-------------------");
+	Escribir ("El promedio es: ", promedio);
+	Escribir ("El estado del estudiante es: ", estado);
+	Escribir ("-------------------");
+FinAlgoritmo
 ```
+**Diagrama de Flujo:**  
+![Diagrama de Flujo](./Imagenes/promedio_notas.png)  
+
+**Descripción del Diagrama de Flujo:**  
+El diagrama inicia solicitando el número de notas, luego itera (bucle) para pedir cada nota y acumular la suma.  
+Al finalizar el ciclo se calcula el promedio y se evalúa una condición (>=7). Según el resultado, se asigna el estado y se muestran los resultados finales.
 
 ---
 
-## 🔹 Ejemplo 2 — Lectura de nombres completos
+## 🔹 Ejemplo 2 — Promedio ponderado de tres calificaciones
 
-**Archivo:** `LEERNOMBRES.c`  
-**Descripción:** Programa que muestra tres formas de manejar cadenas en C para ingresar y mostrar nombres completos:  
-1. Uso de un arreglo de caracteres estático.  
-2. Uso de memoria dinámica con puntero y `malloc`.  
-3. Uso de un puntero a cadena de solo lectura.
+**Archivo:** `promedio_ponderado.psc`  
+**Descripción:**  
+Este algoritmo calcula el **promedio ponderado** de tres calificaciones, aplicando diferentes porcentajes de peso a cada nota:  
+- Nota 1 → 30%  
+- Nota 2 → 30%  
+- Nota 3 → 40%  
+
+El programa solicita al usuario ingresar las tres notas, realiza los cálculos de ponderación y muestra el promedio final con explicación de cada paso.
 
 **Código:**
-```pseint
-#include <stdio.h>
-#include <stdlib.h>
-int main (){
-    // Opcion 1, lista de caracteres (arreglo)
-    /*char nombresCompletos[20];
 
-    printf("Ingrese sus nombres completos\n");
-    scanf("%[^\n]", nombresCompletos);
-    getchar();
-    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);*/
-
-    // Opcion 2, puntero al inicio de una cadena 
-   /*char * nombresCompletos = malloc(30 * sizeof(char));
-     printf("Ingrese sus nombres completos\n");
-    scanf("%[^\n]", nombresCompletos);
-    getchar();
-    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);*/
-
-    // Opcion 3, solo lectura 
-   char *nombresCompletos = "Jefferson Sarango";
-     printf("Ingrese sus nombres completos\n");
-    scanf("%[^\n]", nombresCompletos);
-    getchar();
-    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);
-
-    //Reserva memoria dinamica 
-    /*printf("ingrese sus nombres completos\n");
-    scanf("%[^\n]" , nombresCompletos);
-    getchar();
-    printf("sus nombres ingresados son: %s\n", nombresCompletos)*/
-
-    return 0;
-}
 ```
+Algoritmo promedio_ponderado;
+	// Variables
+	Definir n1, n2, n3, resultado Como Real;
+	Definir N1, N2, N3 Como Real;
+	
+	// Datos de entrada
+	Escribir ("Ingrese la primera nota:");
+	Leer n1;
+	Escribir ("Ingrese la segunda nota:");
+	Leer n2;
+	Escribir ("Ingrese la tercera nota:");
+	Leer n3;
+	
+	// Cálculos de ponderación
+	N1 = n1 * 0.3;
+	N2 = n2 * 0.3;
+	N3 = n3 * 0.4;
+	
+	resultado = N1 + N2 + N3;
+	
+	// Resultado
+	Escribir ("-------------------");
+	Escribir ("Nota 1 (30%): ", N1);
+	Escribir ("Nota 2 (30%): ", N2);
+	Escribir ("Nota 3 (40%): ", N3);
+	Escribir ("Promedio ponderado final: ", resultado);
+	Escribir ("-------------------");
+FinAlgoritmo
+```
+**Diagrama de Flujo:**  
+![Diagrama de Flujo](./Imagenes/promedio_ponderado.png)  
+
+**Descripción del Diagrama de Flujo:**  
+1. Inicio → Pedir 3 notas.  
+2. Multiplicar cada nota por su peso (0.3, 0.3, 0.4).  
+3. Sumar los resultados para obtener el promedio ponderado.  
+4. Mostrar resultado → Fin.
 
 ---
 
-## 🔹 Ejemplo 3 — Doble y triple de un número
+## 🔹 Ejemplo 3 — Área y longitud de un círculo
 
-**Archivo:** `dobletriple.c`  
-**Descripción:** Programa que solicita un número al usuario y calcula su doble y su triple, mostrando ambos resultados.
-
-**Código:**
-```pseint
-#include <stdio.h>
-#include <string.h>
-
-int main(){
-    float valor ,doble,triple;
-    printf("ingrese valor\n");
-    scanf("%f", &valor);
-
-    doble=valor*2;
-    printf("el doble es:%.1f",doble);
-
-    triple=valor*3;
-    printf (" el triple es:%.1f", triple);
-
-    return 0;
-
-
-}
-```
-
----
-
-## 🔹 Ejemplo 4 — Conversión de pies a otras unidades
-
-**Archivo:** `pedirpie.c`  
-**Descripción:** Programa que convierte una cantidad dada en pies a yardas, pulgadas, centímetros y metros, mostrando los resultados equivalentes.
+**Archivo:** `area_circulo.psc`  
+**Descripción:**  
+Este algoritmo calcula el **área** y la **longitud (circunferencia)** de un círculo a partir del radio ingresado por el usuario.  
+Se utiliza la constante π (PI) provista por PSeInt (o se define manualmente si el entorno no la incluye).
 
 **Código:**
+
 ```pseint
-#include <stdio.h>
-#include <string.h>
-
-int main(){
-    float  pie,pg,yr,cm,mt;
-
-    printf("ingrese pie\n");
-    scanf("%f", &pie );
-
-    yr=pie/3;
-    pg=pie*12;
-    cm=pg*2.54;
-    mt=cm/100;
-
-    printf("El resultado en yardas es:%.2f\n",yr);
-    printf("El resultado pulgadas es:%.2f\n",pg);
-    printf("El resultado centimentros es:%.2f\n",cm);
-    printf("El resultado metros es:%.2f\n",mt);
-
-
-    return 0;
-}
+Algoritmo area_circulo;
+	// Declaración de variables
+	Definir r, area, longit Como Real;
+	Constante PI = 3.14159265358979;
+	
+	// Entrada
+	Escribir ("Ingrese el radio del círculo (m):");
+	Leer r;
+	
+	// Validación simple
+	Si r <= 0 Entonces
+		Escribir ("El radio debe ser un número positivo mayor que cero.");
+	Fin Si;
+	
+	// Cálculos
+	area = PI * r ^ 2;
+	longit = 2 * PI * r;
+	
+	// Salida
+	Escribir ("-------------------");
+	Escribir ("El área del círculo es: ", area, " m^2");
+	Escribir ("La longitud (circunferencia) es: ", longit, " m");
+	Escribir ("-------------------");
+FinAlgoritmo
 ```
+**Diagrama de Flujo:**  
+![Diagrama de Flujo](./Imagenes/area_circulo.png)  
 
----
+**Descripción del Diagrama de Flujo:**  
+1. Inicio → Pedir radio.  
+2. Calcular área con la fórmula `area = PI * r^2`.  
+3. Calcular longitud con `longit = 2 * PI * r`.  
+4. Mostrar área y longitud → Fin.
 
-## 🔹 Ejemplo 5 — Cálculo de aceleración
-
-**Archivo:** `aceleracion.c`  
-**Descripción:** Programa que calcula la aceleración de un objeto utilizando la fórmula física \( a = \frac{v_f - v_i}{t} \), donde se ingresan la velocidad inicial, la velocidad final y el tiempo.
-
-**Código:**
-```pseint
-#include <stdio.h>
-#include <string.h>
-
-int main(){
-    float  vi,vf,t,aceleracion;
-
-    printf("ingrese velocidad inicial (m/s)\n");
-    scanf("%f", &vi );
-
-    printf("ingrese velocidad final (m/s)\n");
-    scanf("%f", &vf );
-
-    printf("ingrese el tiempo(s)\n");
-    scanf("%f", &t );
-
-    aceleracion=(vf-vi)/t;
-    
-
-    printf("la fuerza de aceleracion es:%f\n",aceleracion);
-    
-
-    return 0;
-}
-```
-
----
-
-## 🔹 Ejemplo 6 — Conversión de metros a otras unidades
-
-**Archivo:** `transformadordeunidades.c`
-**Descripción:** Programa que convierte una cantidad en metros a kilómetros, centímetros y milímetros, mostrando los resultados con dos decimales.
-
-**Código:**
-```pseint
-#include <stdio.h>
-#include <string.h>
-
-int main(){
-    float  metros,km,cm,mm;
-
-    printf("ingrese metros\n");
-    scanf("%f", &metros );
-
-    km=metros/1000;
-    mm=1000;
-    cm=metros*100;
-    
-
-    printf("El resultado en kilometros es:%.3f\n",km);
-    printf("El resultado milimetros es:%.3f\n",mm);
-    printf("El resultado centimentros es:%.3f\n",cm);
-
-
-    return 0;
-}
-```
 ---
 
 <div align="center">
