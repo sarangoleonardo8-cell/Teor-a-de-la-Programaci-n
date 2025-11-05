@@ -52,6 +52,9 @@ Algoritmo promedio_notas;
 	Escribir ("-------------------");
 FinAlgoritmo
 ```
+
+**IMAGEN 3:** Diagrama de flujo del cálculo del promedio de notas.  
+
 **Diagrama de Flujo:**  
 ![Diagrama de Flujo](./Imagenes/promedio_notas.png)  
 
@@ -104,6 +107,9 @@ Algoritmo promedio_ponderado;
 	Escribir ("-------------------");
 FinAlgoritmo
 ```
+
+**IMAGEN 4:** Diagrama de flujo del promedio ponderado de tres calificaciones. 
+
 **Diagrama de Flujo:**  
 ![Diagrama de Flujo](./Imagenes/promedio_ponderado.png)  
 
@@ -150,6 +156,9 @@ Algoritmo area_circulo;
 	Escribir ("-------------------");
 FinAlgoritmo
 ```
+
+**IMAGEN 5:** Diagrama de flujo del cálculo del área y longitud de un círculo. 
+
 **Diagrama de Flujo:**  
 ![Diagrama de Flujo](./Imagenes/area_circulo.png)  
 
