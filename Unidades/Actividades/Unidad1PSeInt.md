@@ -56,7 +56,7 @@ FinAlgoritmo
 **IMAGEN 3:** Diagrama de flujo del cálculo del promedio de notas.  
 
 **Diagrama de Flujo:**  
-![Diagrama de Flujo](./Imagenes/promedio_notas.png)  
+![Diagrama de Flujo](../Imagenes/promedio_notas.png)  
 
 **Descripción del Diagrama de Flujo:**  
 El diagrama inicia solicitando el número de notas, luego itera (bucle) para pedir cada nota y acumular la suma.  
@@ -111,7 +111,7 @@ FinAlgoritmo
 **IMAGEN 4:** Diagrama de flujo del promedio ponderado de tres calificaciones. 
 
 **Diagrama de Flujo:**  
-![Diagrama de Flujo](./Imagenes/promedio_ponderado.png)  
+![Diagrama de Flujo](../Imagenes/promedio_ponderado.png)  
 
 **Descripción del Diagrama de Flujo:**  
 1. Inicio → Pedir 3 notas.  
@@ -160,7 +160,7 @@ FinAlgoritmo
 **IMAGEN 5:** Diagrama de flujo del cálculo del área y longitud de un círculo. 
 
 **Diagrama de Flujo:**  
-![Diagrama de Flujo](./Imagenes/area_circulo.png)  
+![Diagrama de Flujo](../Imagenes/area_circulo.png)  
 
 **Descripción del Diagrama de Flujo:**  
 1. Inicio → Pedir radio.  
