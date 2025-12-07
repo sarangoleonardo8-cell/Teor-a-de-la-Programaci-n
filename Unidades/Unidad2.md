@@ -9,52 +9,81 @@ title: Unidad 2
 
 ## **Estructura Algorítmicas Condicionales y Estructuras algorítmicas Repetitivas**:
 Las estructuras condicionales son aquellas que permiten que un programa tome decisiones, es decir:
+
 👉 Ejecutan una acción si se cumple una condición,
+
 👉 y otra acción si no se cumple.
+
 Las estructuras algorítmicas repetitivas (también llamadas estructuras de repetición o bucles) son aquellas que permiten ejecutar una o varias instrucciones varias veces, siempre que se cumpla una condición.
 ### ** Estructura Condicional Simple (Si .. Entonces)**
 La estructura condicional simple es una estructura de decisión que permite ejecutar una instrucción solo si se cumple una condición.
+
 👉 Si la condición es verdadera, se ejecuta la acción.
+
 👉 Si la condición es falsa, no pasa nada y el programa sigue.
-Ejwmplo
+
+**Ejemplo**
+```
+Algoritmo edades
+   Definir edad Como Entero
+   Escribir "Ingrese su edad:"
+   Leer edad
+
+   Si edad >= 18 Entonces
+      Escribir "Usted es mayor de edad"
+   Fin Si
+FinAlgoritmo
+
+```
 ### ** Estructura Condicional Doble (Si ..Entonces, Sino ..)**
 La estructura condicional doble es una estructura de decisión que permite al programa elegir entre dos opciones:
-👉 Si la condición es verdadera → ejecuta una acción
-👉 Si no (SINO) → ejecuta otra acción diferente
-Ejemplo
 
+👉 Si la condición es verdadera → ejecuta una acción
+
+👉 Si no (SINO) → ejecuta otra acción diferente
+
+**Ejemplo**
+```
+Algoritmo AprobadoDesaprobado
+   Definir nota Como Entero
+   Escribir "Ingrese su nota:"
+   Leer nota
+
+   Si nota >= 7 Entonces
+      Escribir "Aprobado"
+   Sino
+      Escribir "Reprobado"
+   Fin Si
+FinAlgoritmo
+
+```
 ### ** Estructura Condicional Múltiple (En caso de ….)**
 La estructura condicional múltiple permite al programa elegir entre más de dos opciones, según el valor de una variable
-Ejemplo: Pseinnt
-```Según (variable) Hacer
-   Caso 1:
-      acción 1
-   Caso 2:
-      acción 2
-   Caso 3:
-      acción 3
-   De Otro Modo:
-      acción por defecto
-Fin Según```
 
+**Ejemplo**
+```
+Algoritmo CondicionalMultiple
+   Definir opcion Como Entero
 
+   Escribir "MENU"
+   Escribir "1. Sumar"
+   Escribir "2. Restar"
+   Escribir "3. Multiplicar"
+   Leer opcion
 
----
+   Segun opcion Hacer
+      1:
+         Escribir "Elegiste Sumar"
+      2:
+         Escribir "Elegiste Restar"
+      3:
+         Escribir "Elegiste Multiplicar"
+      De Otro Modo:
+         Escribir "Opción inválida"
+   Fin Segun
+FinAlgoritmo
 
--  
-
----
-
-
-
----
-
-
-
----
-
-
-
+```
 ---
 
 ## 📝 **Tareas Entregadas**
@@ -68,22 +97,27 @@ Fin Según```
     <th>🔗 Enlace</th>
   </tr>
   <tr>
-    <td><b>Tarea 1:</b> Primer Acercamiento</td>
-    <td>Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo.</td>
-    <td><a href="https://drive.google.com/file/d/152bzALVXT-AoEI_l1PbVG_yGk7Gsi-qz/view?usp=drive_link.md">Ver deber</a></td>
+    <td><b>Tarea 1:</b> Control de aprendizaje de programas utilizando estructuras condicionales.</td>
+    <td>Aplicar estructuras condicionales en la resolución de problemas mediante la construcción de programas simples y funcionales.</td>
+    <td><a href="https://drive.google.com/file/d/1Qb1_JBOakmHkbqn1TetcU75xeT2UHu_g/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 2:</b> Diseño de Algoritmo</td>
-    <td>Del diseño del algoritmo con estructuras secuenciales a la construcción del programa..</td>
-    <td><a href="https://drive.google.com/file/d/14mabnbSOWlxdCAS9pXrH_x5-ZGDVL2kw/view?usp=drive_link.md">Ver deber</a></td>
+    <td><b>Tarea 2:</b> Aplicación de estructuras condicionales en la resolución de problemas.</td>
+    <td>Comprender y aplicar las estructuras condicionales simples, dobles y múltiples en la resolución de problemas.</td>
+    <td><a href="https://drive.google.com/file/d/1CVp4YtcFJC52Xb4g3mS8W0jzJTmQZeqN/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 3:</b> Exploracion y uso de Herramientas</td>
-    <td>Exploración y uso de herramientas digitales para pseudocódigo y diagramas de flujo.</td>
-    <td><a href="https://drive.google.com/file/d/1WeVUnB9ImfV-kOxk-2VVuvFJ9ofL9zMk/view?usp=drive_link.md">Ver deber</a></td>
+    <td><b>Tarea 3:</b> Aplicación de estructuras repetitivas en la resolución de problemas.</td>
+    <td>Comprender y aplicar las estructuras repetitivas en la resolución de problemas.</td>
+    <td><a href="https://drive.google.com/file/d/1cSnV3dm1kVTwGS7ijgjP8LEs4oH_uPrP/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 4:</b> Instalacion de Programas</td>
+  <td><b>Tarea 4:</b> Diferencias entre los tipos de estructuras condicionales.</td>
+    <td>Analizar y representar los diferentes tipos de estructuras condicionales, aplicando diagramas de flujo y codificación en lenguaje de programación.</td>
+    <td><a href="https://drive.google.com/file/d/1uG1agXENyUPFQQOrXrT_Wf1nK34mLxh2/view?usp=sharing">Ver deber</a></td>
+  </tr>
+  <tr>
+    <td><b>Tarea 5:</b> Instalacion de Programas</td>
     <td>Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java).</td>
     <td><a href="https://drive.google.com/file/d/1zeNKcmTIFCxACPx4wcPHMo48C1_BM9B1/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
