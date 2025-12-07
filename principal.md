@@ -41,7 +41,6 @@ title: Principal
     🔗 Ir a la Unidad 2
   </a>
 </p>
----
 
 ## 🧩 Unidad 3 — Aplicaciones Prácticas  
 <div style="
