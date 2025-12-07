@@ -2,7 +2,7 @@ layout: default
 title: Unidad 2
 ---
 
-# 🧩 Unidad 2 — Fundamentos de la Programación
+# 🧩 Unidad 2 — Estructuras algorítmicas de control
 
 ---
 ## 📘 **Contenidos de la Unidad**
