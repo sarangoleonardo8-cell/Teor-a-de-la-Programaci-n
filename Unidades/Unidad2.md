@@ -1,7 +1,7 @@
-layout: default
-title: Unidad 2
 ---
-
+Layout: Default
+Title: Unidad 2
+---
 # 🧩 Unidad 2 — Estructuras algorítmicas de control
 
 ---
