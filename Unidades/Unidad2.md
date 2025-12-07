@@ -127,44 +127,6 @@ FinAlgoritmo
 
 ---
 
-## 💾 Códigos de Programación realizados
-
-<div align="center">
-
-<a href="./Actividades/Unidad1" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-💻 Códigos en C
-</a>
-
-<a href="./Actividades/Unidad1PSeInt" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-💻 Códigos en PSeInt
-</a>
-
-</div>
-
----
-
 ## 💭 **Reflexión Crítica de los Aprendizajes de la Unidad**
 
 <div style="
@@ -177,24 +139,9 @@ FinAlgoritmo
 ">
 
 <p>
-Durante el desarrollo de la <b>Unidad 1: Fundamentos de Algoritmos y Programas</b>, comprendí la importancia de estructurar el pensamiento lógico antes de escribir cualquier línea de código.
-</p>
+Durante el desarrollo de la <b> Unidad 2 : Estructuras Condicionales y Repetitivas </b> 
 
-<p>
-Aprendí a representar procesos mediante <b>pseudocódigo</b> y <b>diagramas de flujo</b>, lo cual facilita la comprensión del problema y evita errores en la implementación.
-</p>
-
-<p>
-Además, el trabajo con <b>estructuras secuenciales</b> permitió fortalecer las bases de la programación, entendiendo que cada instrucción tiene un propósito dentro del flujo del algoritmo.
-</p>
-
-<p>
-Identifiqué también las <b>principales dificultades</b>, como la traducción de la lógica humana a un lenguaje formal, lo que exige práctica constante y atención a los detalles.
-</p>
-
-<p>
-En conclusión, esta unidad me ayudó a desarrollar un pensamiento más <b>analítico, ordenado y preciso</b>, cualidades fundamentales para avanzar hacia unidades más complejas de programación.
-</p>
+Aprendí que las estructuras condicionales permiten a los programas tomar decisiones según una condición, mientras que las estructuras repetitivas hacen posible ejecutar acciones varias veces de manera automática. Estos temas son esenciales para crear programas más ordenados, dinámicos y eficientes. Gracias a esta unidad, fortalecí mi pensamiento lógico y comprendí mejor cómo resolver problemas de forma estructurada mediante la programación.
 
 </div>
 
