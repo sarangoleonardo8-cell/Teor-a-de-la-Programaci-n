@@ -25,8 +25,8 @@ Ejemplo
 
 ### ** Estructura Condicional Múltiple (En caso de ….)**
 La estructura condicional múltiple permite al programa elegir entre más de dos opciones, según el valor de una variable
-Ejemplo
-Según (variable) Hacer
+Ejemplo: Pseinnt
+```Según (variable) Hacer
    Caso 1:
       acción 1
    Caso 2:
@@ -35,7 +35,7 @@ Según (variable) Hacer
       acción 3
    De Otro Modo:
       acción por defecto
-Fin Según
+Fin Según```
 
 
 
