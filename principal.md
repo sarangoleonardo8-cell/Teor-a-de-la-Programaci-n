@@ -28,16 +28,19 @@ title: Principal
 ---
 
 ## 💡 Unidad 2 — Paradigmas y Lenguajes  
-<div style="
-  border:2px dashed #f1c40f;
-  background-color:#fffbea;
-  padding:12px;
-  border-radius:10px;
-">
-🚧 <b>En desarrollo:</b> Esta unidad se habilitará una vez finalizados los contenidos de la Unidad 1.  
-Comparará los principales paradigmas de programación y mostrará ejemplos en distintos lenguajes.
-</div>
-
+<p align="center">
+  <a href="./Unidades/Unidad2" style="
+    display:inline-block;
+    background-color:#28a745;
+    color:#fff;
+    padding:10px 16px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    🔗 Ir a la Unidad 2
+  </a>
+</p>
 ---
 
 ## 🧩 Unidad 3 — Aplicaciones Prácticas  
