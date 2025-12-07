@@ -7,15 +7,37 @@ title: Unidad 2
 ---
 ## 📘 **Contenidos de la Unidad**
 
-### **Estructura Algorítmicas Condicionales y Estructuras algorítmicas Repetitivas**:
+## **Estructura Algorítmicas Condicionales y Estructuras algorítmicas Repetitivas**:
 Las estructuras condicionales son aquellas que permiten que un programa tome decisiones, es decir:
 👉 Ejecutan una acción si se cumple una condición,
 👉 y otra acción si no se cumple.
 Las estructuras algorítmicas repetitivas (también llamadas estructuras de repetición o bucles) son aquellas que permiten ejecutar una o varias instrucciones varias veces, siempre que se cumpla una condición.
-# ** Estructura Condicional Simple (Si .. Entonces)**
-# ** Estructura Condicional Doble (Si ..Entonces, Sino ..)**
-# ** Estructura Condicional Múltiple (En caso de ….)**
-- 
+### ** Estructura Condicional Simple (Si .. Entonces)**
+La estructura condicional simple es una estructura de decisión que permite ejecutar una instrucción solo si se cumple una condición.
+👉 Si la condición es verdadera, se ejecuta la acción.
+👉 Si la condición es falsa, no pasa nada y el programa sigue.
+Ejwmplo
+### ** Estructura Condicional Doble (Si ..Entonces, Sino ..)**
+La estructura condicional doble es una estructura de decisión que permite al programa elegir entre dos opciones:
+👉 Si la condición es verdadera → ejecuta una acción
+👉 Si no (SINO) → ejecuta otra acción diferente
+Ejemplo
+
+### ** Estructura Condicional Múltiple (En caso de ….)**
+La estructura condicional múltiple permite al programa elegir entre más de dos opciones, según el valor de una variable
+Ejemplo
+Según (variable) Hacer
+   Caso 1:
+      acción 1
+   Caso 2:
+      acción 2
+   Caso 3:
+      acción 3
+   De Otro Modo:
+      acción por defecto
+Fin Según
+
+
 
 ---
 
