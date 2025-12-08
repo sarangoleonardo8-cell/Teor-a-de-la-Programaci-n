@@ -115,65 +115,41 @@ int main() {
 ```
 
 ---
+## 💾 Códigos de Programación realizados
 
-### Estructura combinada en Python
+<div align="center">
 
-```
+<a href="./Actividades/Unidad1" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Códigos en C
+</a>
 
-Programa para clasificar el consumo de N medidores eléctricos
+<a href="./Actividades/Unidad1PSeInt" style="
+    background: linear-gradient(90deg, #1E88E5, #42A5F5);
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 5px;
+">
+💻 Códigos en Python
+</a>
 
-Pedimos cuántos medidores se van a ingresar
-n = int(input("¿Cuántos medidores desea ingresar?: "))
-
-consumos = []  # lista para guardar los consumos
-bajo = 0
-medio = 0
-alto = 0
-
-Ingreso de datos
-for i in range(1, n + 1):
-    consumo = float(input(f"Ingrese el consumo del medidor {i} en kWh: "))
-    consumos.append(consumo)
-
-    # Clasificación según el consumo
-    if consumo < 100:
-        print(f"El medidor {i} tuvo un consumo BAJO.")
-        bajo += 1
-    elif consumo <= 300:
-        print(f"El medidor {i} tuvo un consumo MEDIO.")
-        medio += 1
-    else:
-        print(f"El medidor {i} tuvo un consumo ALTO.")
-        alto += 1
-
-Calcular mayor, menor y total de consumo
-
-mayor_consumo = max(consumos)
-
-menor_consumo = min(consumos)
-
-consumo_total = sum(consumos)  # suma de todos los consumos
-
-promedio_consumo = consumo_total / n  # promedio de consumo
-
-Identificar medidores con mayor y menor consumo
-
-medidor_mayor = consumos.index(mayor_consumo) + 1
-
-medidor_menor = consumos.index(menor_consumo) + 1
-
-Mostrar resultados finales
-print("\n--- RESULTADOS ---")
-print(f"Existen {alto} medidor(es) en nivel ALTO")
-print(f"Existen {medio} medidor(es) en nivel MEDIO")
-print(f"Existen {bajo} medidor(es) en nivel BAJO")
-print(f"El medidor con MAYOR consumo es el número {medidor_mayor} con {mayor_consumo} kWh")
-print(f"El medidor con MENOR consumo es el número {medidor_menor} con {menor_consumo} kWh")
-print(f"El consumo TOTAL de todos los medidores es {consumo_total} kWh")
-print(f"El consumo PROMEDIO es {promedio_consumo:.2f} kWh")
-
-
-```
+</div>
 
 ---
 
