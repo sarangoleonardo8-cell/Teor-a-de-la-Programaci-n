@@ -22,9 +22,28 @@ La estructura condicional simple es una estructura de decisión que permite ejec
 
 👉 Si la condición es falsa, no pasa nada y el programa sigue.
 
-**IMAGEN 1:** Diagrama de flujo del cálculo de edad.  
+**IMAGEN 1:** Diagrama de flujo 
 
 ![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-192505.png)
+
+**Ejemplo** En c++
+```
+#include <stdio.h>
+
+int main() {
+    int edad;
+
+    printf("Escriba su edad: ");
+    scanf("%d", &edad);
+
+    if (edad >= 18) {
+        printf("Usted es mayor de edad");
+    }
+
+    return 0;
+}
+```
+
 
 ### ** Estructura condicional Doble (Si ..Entonces, Sino ..)**
 La estructura condicional doble es una estructura de decisión que permite al programa elegir entre dos opciones:
