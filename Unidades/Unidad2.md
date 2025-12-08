@@ -113,7 +113,70 @@ int main() {
     return 0;
 }
 ```
+
 ---
+
+### Estructura combinada en Python
+
+```
+
+Programa para clasificar el consumo de N medidores eléctricos
+
+Pedimos cuántos medidores se van a ingresar
+n = int(input("¿Cuántos medidores desea ingresar?: "))
+
+consumos = []  # lista para guardar los consumos
+bajo = 0
+medio = 0
+alto = 0
+
+Ingreso de datos
+for i in range(1, n + 1):
+    consumo = float(input(f"Ingrese el consumo del medidor {i} en kWh: "))
+    consumos.append(consumo)
+
+    # Clasificación según el consumo
+    if consumo < 100:
+        print(f"El medidor {i} tuvo un consumo BAJO.")
+        bajo += 1
+    elif consumo <= 300:
+        print(f"El medidor {i} tuvo un consumo MEDIO.")
+        medio += 1
+    else:
+        print(f"El medidor {i} tuvo un consumo ALTO.")
+        alto += 1
+
+Calcular mayor, menor y total de consumo
+
+mayor_consumo = max(consumos)
+
+menor_consumo = min(consumos)
+
+consumo_total = sum(consumos)  # suma de todos los consumos
+
+promedio_consumo = consumo_total / n  # promedio de consumo
+
+Identificar medidores con mayor y menor consumo
+
+medidor_mayor = consumos.index(mayor_consumo) + 1
+
+medidor_menor = consumos.index(menor_consumo) + 1
+
+Mostrar resultados finales
+print("\n--- RESULTADOS ---")
+print(f"Existen {alto} medidor(es) en nivel ALTO")
+print(f"Existen {medio} medidor(es) en nivel MEDIO")
+print(f"Existen {bajo} medidor(es) en nivel BAJO")
+print(f"El medidor con MAYOR consumo es el número {medidor_mayor} con {mayor_consumo} kWh")
+print(f"El medidor con MENOR consumo es el número {medidor_menor} con {menor_consumo} kWh")
+print(f"El consumo TOTAL de todos los medidores es {consumo_total} kWh")
+print(f"El consumo PROMEDIO es {promedio_consumo:.2f} kWh")
+
+
+```
+
+---
+
 ### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
 - A veces se me complica plantear bien las condiciones.
 Me confundo con los operadores (==, >, <, &&, ||) y eso hace que el programa no haga exactamente lo que quiero.
