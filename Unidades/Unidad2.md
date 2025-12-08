@@ -22,20 +22,10 @@ La estructura condicional simple es una estructura de decisión que permite ejec
 
 👉 Si la condición es falsa, no pasa nada y el programa sigue.
 
-**Ejemplo**
-```
-Algoritmo edades
-   Definir edad Como Entero
-   Escribir "Ingrese su edad:"
-   Leer edad
+**IMAGEN 1:** Diagrama de flujo del cálculo de edad.  
 
-   Si edad >= 18 Entonces
-      Escribir "Usted es mayor de edad"
-   Fin Si
-FinAlgoritmo
-
-```
-### ** Estructura Condicional Doble (Si ..Entonces, Sino ..)**
+![Diagrama de Flujo](./Imagenes/calculo_edad.png)
+dicional Doble (Si ..Entonces, Sino ..)**
 La estructura condicional doble es una estructura de decisión que permite al programa elegir entre dos opciones:
 
 👉 Si la condición es verdadera → ejecuta una acción
