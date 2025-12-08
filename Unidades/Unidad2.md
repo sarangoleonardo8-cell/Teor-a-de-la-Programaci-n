@@ -146,8 +146,8 @@ int main() {
     <td><a href="https://drive.google.com/file/d/1uG1agXENyUPFQQOrXrT_Wf1nK34mLxh2/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 5:</b> Instalacion de Programas</td>
-    <td>Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java).</td>
+    <td><b>Tarea 5:</b> Cuadro comparativo entre las estructuras repetitivas </td>
+    <td> Analizar y comparar las principales estructuras repetitivas utilizadas en programación, identificando sus características, diferencias y aplicaciones.</td>
     <td><a href="https://drive.google.com/file/d/1zeNKcmTIFCxACPx4wcPHMo48C1_BM9B1/view?usp=drive_link.md">Ver deber</a></td>
   </tr>
 </table>
