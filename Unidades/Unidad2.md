@@ -115,7 +115,7 @@ int main() {
 ```
 ---
 ### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
--A veces se me complica plantear bien las condiciones.
+- A veces se me complica plantear bien las condiciones.
 Me confundo con los operadores (==, >, <, &&, ||) y eso hace que el programa no haga exactamente lo que quiero.
 
 - Me cuesta decidir qué estructura usar en cada caso.
