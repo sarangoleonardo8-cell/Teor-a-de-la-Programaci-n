@@ -27,7 +27,7 @@ title: Principal
 
 ---
 
-## 💡 Unidad 2 — Paradigmas y Lenguajes  
+## 💡 Unidad 2 — Estructuras algorítmicas de control  
 <p align="center">
   <a href="./Unidades/Unidad2" style="
     display:inline-block;
