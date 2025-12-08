@@ -54,24 +54,26 @@ La estructura condicional doble es una estructura de decisión que permite al pr
 
 **IMAGEN 1:** Diagrama de flujo 
 
-![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-192505.png)
+![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-94150.png)
 
 **Ejemplo** En c++
-
-**Ejemplo**
 ```
-Algoritmo AprobadoDesaprobado
-   Definir nota Como Entero
-   Escribir "Ingrese su nota:"
-   Leer nota
+#include <stdio.h>
 
-   Si nota >= 7 Entonces
-      Escribir "Aprobado"
-   Sino
-      Escribir "Reprobado"
-   Fin Si
-FinAlgoritmo
+int main() {
+    int nota;
 
+    printf("Ingrese su nota: ");
+    scanf("%d", &nota);
+
+    if (nota >= 7) {
+        printf("Aprobado");
+    } else {
+        printf("Reprobado");
+    }
+
+    return 0;
+}
 ```
 ### ** Estructura Condicional Múltiple (En caso de ….)**
 La estructura condicional múltiple permite al programa elegir entre más de dos opciones, según el valor de una variable
