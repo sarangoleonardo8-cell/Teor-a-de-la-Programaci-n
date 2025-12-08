@@ -52,6 +52,12 @@ La estructura condicional doble es una estructura de decisión que permite al pr
 
 👉 Si no (SINO) → ejecuta otra acción diferente
 
+**IMAGEN 1:** Diagrama de flujo 
+
+![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-192505.png)
+
+**Ejemplo** En c++
+
 **Ejemplo**
 ```
 Algoritmo AprobadoDesaprobado
