@@ -80,10 +80,38 @@ La estructura condicional múltiple permite al programa elegir entre más de dos
 
 **IMAGEN 3:** Diagrama de flujo 
 
-![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-192505.png)
+![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-194811.png)
 
 **Ejemplo** En c++
+```
+#include <stdio.h>
 
+int main() {
+    int opcion;
+
+    printf("MENU\n");
+    printf("1. Sumar\n");
+    printf("2. Restar\n");
+    printf("3. Multiplicar\n");
+    scanf("%d", &opcion);
+
+    switch (opcion) {
+        case 1:
+            printf("Elegiste Sumar");
+            break;
+        case 2:
+            printf("Elegiste Restar");
+            break;
+        case 3:
+            printf("Elegiste Multiplicar");
+            break;
+        default:
+            printf("Opcion invalida");
+            break;
+    }
+
+    return 0;
+}
 ```
 ---
 
