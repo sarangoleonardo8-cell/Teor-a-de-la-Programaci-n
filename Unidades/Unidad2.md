@@ -24,7 +24,7 @@ La estructura condicional simple es una estructura de decisión que permite ejec
 
 **IMAGEN 1:** Diagrama de flujo del cálculo de edad.  
 
-![Diagrama de Flujo](Unidades/Imagenes/Captura-de-pantalla-2025-12-07-192505.png)
+![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-192505.png)
 
 ### ** Estructura condicional Doble (Si ..Entonces, Sino ..)**
 La estructura condicional doble es una estructura de decisión que permite al programa elegir entre dos opciones:
