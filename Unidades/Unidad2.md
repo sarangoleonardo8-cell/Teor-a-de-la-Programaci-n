@@ -113,44 +113,89 @@ int main() {
     return 0;
 }
 ```
+## Programa combinado realizado en Python 
 
----
-## 💾 Códigos de Programación realizados
+###  Descripcion del problema
 
-<div align="center">
+- La empresa eléctrica necesita analizar el consumo energético registrado por varios medidores de luz. Para ello se requiere un programa que
+permita ingresar el consumo en kilovatios-hora (kWh) de N medidores eléctricos y que posteriormente realice una clasificación y un análisis 
+estadístico de dichos consumos.
+- El programa debe permitir al usuario indicar cuántos medidores se van a evaluar e ingresar el consumo individual de cada uno. Con esta 
+información, el sistema debe:
+- Clasificar cada medidor según su nivel de consumo:
+  
+Bajo: menos de 100 kWh
 
-<a href="./Actividades/Unidad1" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-💻 Códigos en C
-</a>
+Medio: entre 100 y 300 kWh
 
-<a href="./Actividades/Unidad1PSeInt" style="
-    background: linear-gradient(90deg, #1E88E5, #42A5F5);
-    color: white;
-    padding: 10px 25px;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    display: inline-block;
-    margin: 5px;
-">
-💻 Códigos en Python
-</a>
+Alto: más de 300 kWh
 
-</div>
+Contabilizar cuántos medidores pertenecen a cada categoría.
 
+- Determinar datos estadísticos, tales como:
+  
+El mayor consumo registrado y el número del medidor al que pertenece.
+
+El menor consumo registrado y el número del medidor correspondiente.
+
+El consumo total de todos los medidores.
+
+El promedio general de consumo.
+
+- Finalmente, el programa debe mostrar un resumen completo con todos los resultados obtenidos.
+
+### Programa en Python
+```
+# Programa para clasificar el consumo de N medidores eléctricos
+
+# Pedimos cuántos medidores se van a ingresar
+n = int(input("¿Cuántos medidores desea ingresar?: "))
+
+consumos = []  # lista para guardar los consumos
+bajo = 0
+medio = 0
+alto = 0
+
+# Ingreso de datos
+for i in range(1, n + 1):
+    consumo = float(input(f"Ingrese el consumo del medidor {i} en kWh: "))
+    consumos.append(consumo)
+
+    # Clasificación según el consumo
+    if consumo < 100:
+        print(f"El medidor {i} tuvo un consumo BAJO.")
+        bajo += 1
+    elif consumo <= 300:
+        print(f"El medidor {i} tuvo un consumo MEDIO.")
+        medio += 1
+    else:
+        print(f"El medidor {i} tuvo un consumo ALTO.")
+        alto += 1
+
+# Calcular mayor, menor y total de consumo
+mayor_consumo = max(consumos)
+menor_consumo = min(consumos)
+consumo_total = sum(consumos)  # suma de todos los consumos
+promedio_consumo = consumo_total / n  # promedio de consumo
+
+# Identificar medidores con mayor y menor consumo
+medidor_mayor = consumos.index(mayor_consumo) + 1
+medidor_menor = consumos.index(menor_consumo) + 1
+
+# Mostrar resultados finales
+print("\n--- RESULTADOS ---")
+print(f"Existen {alto} medidor(es) en nivel ALTO")
+print(f"Existen {medio} medidor(es) en nivel MEDIO")
+print(f"Existen {bajo} medidor(es) en nivel BAJO")
+print(f"El medidor con MAYOR consumo es el número {medidor_mayor} con {mayor_consumo} kWh")
+print(f"El medidor con MENOR consumo es el número {medidor_menor} con {menor_consumo} kWh")
+print(f"El consumo TOTAL de todos los medidores es {consumo_total} kWh")
+print(f"El consumo PROMEDIO es {promedio_consumo:.2f} kWh")
+
+```
+### Diagrama de flujo
+![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-194811.png)
+### Programa ejecutado 
 ---
 
 ### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
