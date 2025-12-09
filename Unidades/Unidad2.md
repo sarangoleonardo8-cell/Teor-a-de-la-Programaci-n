@@ -226,10 +226,11 @@ Durante el desarrollo de la <b> Unidad 2 : Estructuras Condicionales y Repetitiv
 Aprendí que las estructuras condicionales permiten a los programas tomar decisiones según una condición, mientras que las estructuras repetitivas hacen posible ejecutar acciones varias veces de manera automática. Estos temas son esenciales para crear programas más ordenados, dinámicos y eficientes. Gracias a esta unidad, fortalecí mi pensamiento lógico y comprendí mejor cómo resolver problemas de forma estructurada mediante la programación.
 </div>
 
+
 ---
 
-## 📝 **Tareas Entregadas**
 
+## 📝 **Tareas Entregadas**
 <div align="center">
 
 <table>
