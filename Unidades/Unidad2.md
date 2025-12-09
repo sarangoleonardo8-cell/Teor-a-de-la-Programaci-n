@@ -194,7 +194,7 @@ print(f"El consumo PROMEDIO es {promedio_consumo:.2f} kWh")
 
 ```
 ### Diagrama de flujo
-![Diagrama de Flujo](./Imagenes/Captura-de-pantalla-2025-12-07-194811.png)
+![Diagrama de Flujo](./Imagenes/ClasificarMedidoresBasico.svg)
 ### Programa ejecutado 
 ---
 
