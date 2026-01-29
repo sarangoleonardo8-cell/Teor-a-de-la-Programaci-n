@@ -43,6 +43,20 @@ title: Principal
 </p>
 
 ## 🧩 Unidad 3 — Aplicaciones Prácticas  
+<p align="center">
+  <a href="./Unidades/Unidad3" style="
+    display:inline-block;
+    background-color:#28a745;
+    color:#fff;
+    padding:10px 16px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    🔗 Ir a la Unidad 3
+  </a>
+</p>
+
 <div style="
   border:2px dashed #95a5a6;
   background-color:#f4f6f7;
