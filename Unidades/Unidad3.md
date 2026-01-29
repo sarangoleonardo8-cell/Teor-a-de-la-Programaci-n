@@ -1,4 +1,4 @@
----
+9---
 Layout: Default
 Title: Unidad 2
 ---
@@ -176,13 +176,9 @@ int main()
 ```
 
 ### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
-- A veces se me complica plantear bien las condiciones.
-Me confundo con los operadores (==, >, <, &&, ||) y eso hace que el programa no haga exactamente lo que quiero.
+Durante el estudio de la programación modular y las estructuras de datos estáticas, una de las principales dificultades fue comprender cómo dividir correctamente un programa en funciones y cómo comunicarlas mediante parámetros. Además, el manejo de arreglos y cadenas presentó retos al trabajar con índices, tamaños definidos y control de errores como desbordamientos. Superar estas dificultades requirió práctica y atención al orden y la lógica del código
 
-- Me cuesta decidir qué estructura usar en cada caso.
-A veces no sé si usar un if, un for, un while o un do…while, y eso hace que tarde más en resolver los ejercicios o que escoja una estructura que no es la más adecuada. 
-
-💡 **Recomendación:** Practicar con ejercicios pequeños y variados ayuda bastante a comprender mejor cuándo usar cada estructura. Empezar con ejemplos simples permite entender bien las condiciones y el control de los ciclos, y poco a poco se vuelve más fácil identificar la estructura adecuada para cada problema.
+💡 **Recomendación:** Recomiendo practicar constantemente la creación de funciones para fortalecer la programación modular y mejorar la organización del código. Asimismo, es importante prestar atención al manejo de índices y tamaños en los arreglos y cadenas para evitar errores. Finalmente, realizar ejercicios prácticos y revisar el código paso a paso ayuda a reforzar la lógica y comprender mejor el funcionamiento de las estructuras de datos.
 
 ## 💭 **Reflexión Crítica de los Aprendizajes de la Unidad**
 
@@ -196,8 +192,8 @@ A veces no sé si usar un if, un for, un while o un do…while, y eso hace que t
 ">
 
 <p>
-Durante el desarrollo de la <b> Unidad 2 : Estructuras Condicionales y Repetitivas </b> </p>
-Aprendí que las estructuras condicionales permiten a los programas tomar decisiones según una condición, mientras que las estructuras repetitivas hacen posible ejecutar acciones varias veces de manera automática. Estos temas son esenciales para crear programas más ordenados, dinámicos y eficientes. Gracias a esta unidad, fortalecí mi pensamiento lógico y comprendí mejor cómo resolver problemas de forma estructurada mediante la programación.
+Durante el desarrollo de la <b> Unidad 3 : Programación modular y estructura de datos estáticas </b> </p>
+En esta unidad aprendí la importancia de la programación modular y el uso de estructuras de datos estáticas básicas para desarrollar programas ordenados y eficientes. La programación modular facilita dividir el código en funciones, mientras que los arreglos y cadenas permiten almacenar y manejar información de forma estructurada. Estos conocimientos fortalecen la lógica de programación y son fundamentales para crear soluciones claras y funcionales.
 </div>
 
 
@@ -234,9 +230,8 @@ Aprendí que las estructuras condicionales permiten a los programas tomar decisi
     <td><a href="https://drive.google.com/file/d/1kX2dnHde69br2OozRqJb7rEa19qZGeAU/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 5:</b> Cuadro comparativo entre las estructuras repetitivas </td>
-    <td> Analizar y comparar las principales estructuras repetitivas utilizadas en programación, identificando sus características, diferencias y aplicaciones.</td>
-    <td><a href="https://drive.google.com/file/d/1Xjj9eUn4_oHjTZy6rJ41SYteusQVtpZO/view?usp=sharing">Ver deber</a></td>
+    <td><b>Tarea 5:</b> Implementacion de funciones utilizando el paso de parametros por valor y por referencia. </td>
+    <td> Este deber no requiere entrega.</td>
   </tr>
 </table>
 
