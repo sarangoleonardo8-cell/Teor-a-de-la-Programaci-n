@@ -55,7 +55,7 @@ title: Principal
   ">
     🔗 Ir a la Unidad 3
   </a>
-</p
+</p>
   
 <div style="
   border:2px dashed #95a5a6;
