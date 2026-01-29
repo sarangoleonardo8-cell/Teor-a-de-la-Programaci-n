@@ -1,6 +1,6 @@
 ---
 Layout: Default
-Title: Unidad 2
+Title: Unidad 3
 ---
 # 🧩 Unidad 3 — Programación modular y estructura de datos estáticas
 
