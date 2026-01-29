@@ -54,24 +54,24 @@ Aprendí que las estructuras condicionales permiten a los programas tomar decisi
     <th>🔗 Enlace</th>
   </tr>
   <tr>
-    <td><b>Tarea 1:</b> Control de aprendizaje de programas utilizando estructuras condicionales.</td>
-    <td>Aplicar estructuras condicionales en la resolución de problemas mediante la construcción de programas simples y funcionales.</td>
-    <td><a href="https://drive.google.com/file/d/1Qb1_JBOakmHkbqn1TetcU75xeT2UHu_g/view?usp=sharing">Ver deber</a></td>
+    <td><b>Tarea 1:</b> Control de aprendizaje de programas en Python.</td>
+    <td>Evaluar la comprensión de los fundamentos del lenguaje Python mediante preguntas teóricas y prácticas.</td>
+    <td><a href="https://drive.google.com/file/d/1DLU1VMxqvibVkzpi0CbA064oiLPGQXzm/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 2:</b> Aplicación de estructuras condicionales en la resolución de problemas.</td>
-    <td>Comprender y aplicar las estructuras condicionales simples, dobles y múltiples en la resolución de problemas.</td>
-    <td><a href="https://drive.google.com/file/d/1CVp4YtcFJC52Xb4g3mS8W0jzJTmQZeqN/view?usp=sharing">Ver deber</a></td>
+    <td><b>Tarea 2:</b> Control de aprendizaje sobre modularidad y estructura de datos.</td>
+    <td>Aplicar estructuras de datos compuestas y programación modular en lenguaje C para organizar, manipular y procesar información en la resolución de problemas computacionales.</td>
+    <td><a href="https://drive.google.com/file/d/1AdpEF5ZMvg92MSBfK5DPTTKDmW-hX00W/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-    <td><b>Tarea 3:</b> Aplicación de estructuras repetitivas en la resolución de problemas.</td>
-    <td>Comprender y aplicar las estructuras repetitivas en la resolución de problemas.</td>
-    <td><a href="https://drive.google.com/file/d/1cSnV3dm1kVTwGS7ijgjP8LEs4oH_uPrP/view?usp=sharing">Ver deber</a></td>
+    <td><b>Tarea 3:</b> Construcción de funciones y procedimientos en un lenguaje de programación.</td>
+    <td>Aplicar los fundamentos de la programación modular mediante la construcción y uso de funciones y procedimientos, para resolver un problema real, garantizando un código estructurado, reutilizable y correctamente documentado.</td>
+    <td><a href="https://drive.google.com/file/d/14hO6yYLiyOvbAVD9ufY5iOWgjglFUVip/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
-  <td><b>Tarea 4:</b> Diferencias entre los tipos de estructuras condicionales.</td>
-    <td>Analizar y representar los diferentes tipos de estructuras condicionales, aplicando diagramas de flujo y codificación en lenguaje de programación.</td>
-    <td><a href="https://drive.google.com/file/d/1uG1agXENyUPFQQOrXrT_Wf1nK34mLxh2/view?usp=sharing">Ver deber</a></td>
+  <td><b>Tarea 4:</b> Curso virtual de Cisco Networking Academy.</td>
+    <td>Presentar certificado de aprobacion de curso.</td>
+    <td><a href="https://drive.google.com/file/d/1kX2dnHde69br2OozRqJb7rEa19qZGeAU/view?usp=sharing">Ver deber</a></td>
   </tr>
   <tr>
     <td><b>Tarea 5:</b> Cuadro comparativo entre las estructuras repetitivas </td>
