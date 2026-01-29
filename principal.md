@@ -63,14 +63,15 @@ title: Principal
   padding:12px;
   border-radius:10px;
 ">
-🕓 <b>Pendiente:</b> En esta unidad se desarrollarán ejercicios, proyectos y la resolución de problemas reales una vez avanzadas las unidades anteriores.
 </div>
 
 ---
 
 ## 🧠 Conclusiones  
 Reflexión sobre los aprendizajes obtenidos y su aplicación práctica en la programación.  
-*(Se completará al finalizar todas las unidades.)*
+La materia de Programación permitió desarrollar habilidades fundamentales para el análisis y la resolución de problemas mediante el uso de la lógica y el pensamiento estructurado. A lo largo del curso se aprendieron conceptos clave como la programación modular y el manejo de estructuras de datos, los cuales contribuyen a escribir código más ordenado, eficiente y fácil de mantener.
+
+Asimismo, la práctica constante fortaleció la capacidad de diseñar soluciones funcionales y de comprender la importancia de una correcta organización del programa. En conclusión, los conocimientos adquiridos en esta materia constituyen una base sólida para el aprendizaje de lenguajes más avanzados y para la aplicación de la programación en situaciones reales.
 
 ---
 
