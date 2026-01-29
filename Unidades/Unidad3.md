@@ -9,11 +9,171 @@ Title: Unidad 2
 
 ## **Programación modular**:
 - Es una técnica donde un programa grande se divide en partes más pequeñas llamadas módulos o funciones, y cada una cumple una tarea específica.En lugar de tener todo el código junto y revuelto, lo separas por responsabilidades.
+## 🔹 8. Ejemplos Prácticos en C
+
+### 📌 Ejemplo 1: Función sin retorno
+
+```c
+#include <stdio.h>
+
+void mostrarMensaje() {
+    printf("Bienvenido a la Programación Modular\n");
+}
+
+int main() {
+    mostrarMensaje();
+    return 0;
+}
+```
+### 📌 Ejemplo 2: Función con retorno
+
+```c
+#include <stdio.h>
+
+int sumar(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int resultado = sumar(5, 3);
+    printf("La suma es: %d\n", resultado);
+    return 0;
+}
+```
+### 📌 Ejemplo 3: Paso por valor
+
+```c
+#include <stdio.h>
+
+void incrementar(int x) {
+    x = x + 1;
+}
+
+int main() {
+    int numero = 5;
+    incrementar(numero);
+    printf("Valor final: %d\n", numero);
+    return 0;
+}
+```
+### 📌 Ejemplo 4: Paso por referencia
+
+```c
+#include <stdio.h>
+
+void incrementar(int *x) {
+    *x = *x + 1;
+}
+
+int main() {
+    int numero = 5;
+    incrementar(&numero);
+    printf("Valor final: %d\n", numero);
+    return 0;
+}
+```
 ## **Estructuras de datos estáticas básicas**:
 ### Unidimensionales
+```c
+#include <stdio.h>
+
+int main()
+{
+    int lista[5] = {8, 10, 9, 5, 1};
+
+    printf("Arreglo unidimensional:\n");
+    for (int i = 0; i < 5; i++)
+    {
+        printf("Elemento en la posicion %d: %d\n", i, lista[i]);
+    }
+
+    return 0;
+}
+
+```
 ### Bidimensionales 
-### Multidimensionales 
-### Cadenas o Strings
+```c
+#include <stdio.h>
+
+int main()
+{
+    int matriz[3][4] = {
+        {9, 5, 8, 6},
+        {2, 3, 4, 8},
+        {7, 7, 2, 4}
+    };
+
+    printf("Elementos de la matriz:\n");
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            printf("Elemento en la posicion [%d][%d]: %d\n", i, j, matriz[i][j]);
+        }
+        printf("\n");
+    }
+
+    printf("Matriz completa:\n");
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 4; j++)
+        {
+            printf("%d ", matriz[i][j]);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+### Tridimensionales 
+```c
+#include <stdio.h>
+
+int main()
+{
+    int arreglotridimensional[2][3][2];
+
+    // Asignar valores capa 1
+    arreglotridimensional[0][0][0] = 1;
+    arreglotridimensional[0][0][1] = 2;
+
+    arreglotridimensional[0][1][0] = 3;
+    arreglotridimensional[0][1][1] = 4;
+
+    arreglotridimensional[0][2][0] = 5;
+    arreglotridimensional[0][2][1] = 6;
+
+    // Asignar valores capa 2
+    arreglotridimensional[1][0][0] = 7;
+    arreglotridimensional[1][0][1] = 8;
+
+    arreglotridimensional[1][1][0] = 9;
+    arreglotridimensional[1][1][1] = 10;
+
+    arreglotridimensional[1][2][0] = 11;
+    arreglotridimensional[1][2][1] = 12;
+
+    // Mostrar valores
+    printf("Arreglo tridimensional:\n");
+    for (int i = 0; i < 2; i++)
+    {
+        printf("Capa %d:\n", i + 1);
+        for (int j = 0; j < 3; j++)
+        {
+            for (int k = 0; k < 2; k++)
+            {
+                printf("Elemento en la posicion [%d][%d][%d]: %d\n",
+                       i, j, k, arreglotridimensional[i][j][k]);
+            }
+            printf("\n");
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
 
 ### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
 - A veces se me complica plantear bien las condiciones.
