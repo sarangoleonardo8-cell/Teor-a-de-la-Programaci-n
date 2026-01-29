@@ -10,10 +10,10 @@ Title: Unidad 2
 ## **Programación modular**:
 - Es una técnica donde un programa grande se divide en partes más pequeñas llamadas módulos o funciones, y cada una cumple una tarea específica.En lugar de tener todo el código junto y revuelto, lo separas por responsabilidades.
 ## **Estructuras de datos estáticas básicas**:
-Unidimensionales
-Bidimensionales 
-Multidimensionales 
-Cadenas o Strings
+### Unidimensionales
+### Bidimensionales 
+### Multidimensionales 
+### Cadenas o Strings
 
 ### 🚧 **Principales Dificultades en la Aplicación de los Contenidos**
 - A veces se me complica plantear bien las condiciones.
